@@ -50,6 +50,11 @@ Delegated asset managers frequently refer to credit ratings in the contracts the
 
 
 
+#### [Netting][N] 
+
+with [Giorgia Piacentino][giorgia]  
+
+We present a model to explain why banks hold off-setting debts without netting them out. We find that off-setting debts help a bank to raise liquidity with new debt from a third party, since diluting old debt subsidizes the new debt. Even though a diluted bank is worse off ex post, a network of gross debts is stable ex ante. This is because it provides banks with valuable liquidity co-insurance, since each bank exercises its option to dilute when it needs liquidity most. However, the network harbors systemic risk: since one bank's liabilities are other banks' assets, a liquidity shock can transmit through the network in a default cascade.
 
 #### [Money Runs][MR] 
 
@@ -118,6 +123,9 @@ Non-depository financial intermediaries ("non-banks") have a higher cost of capi
 <!---
 PAPERS
 -->
+
+
+[N]:http://jrdonaldson.com/Papers/Donaldson-Piacentino-Netting.pdf
 
 [MR]:http://jrdonaldson.com/Papers/Donaldson-Piacentino-Money_Runs.pdf
 
