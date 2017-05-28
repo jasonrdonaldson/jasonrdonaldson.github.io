@@ -31,6 +31,14 @@ your comment goes here
 and here
 -->
 
+
+#### [Warehouse Banking][WB] 
+with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan] (accepted at the JFE)
+
+We develop a theory of banking that explains why banks started out as commodities warehouses. We show that warehouses become banks because their superior storage technology allows them to enforce the repayment of loans most effectively. Further, interbank markets emerge endogenously to support this enforcement mechanism. Even though warehouses store deposits of real goods, they make loans by writing new "fake" warehouse receipts, rather than by taking deposits out of storage. Our theory helps to explain how modern banks create funding liquidity and why they combine warehousing (custody and deposit-taking), lending, and private money creation within the same institutions. It also casts light on a number of contemporary regulatory policies.
+
+
+
 ####[Resaleable Debt and Systemic Risk][n] 
 with [Eva Micheler][eva] (accepted at the JFE)
 
@@ -47,11 +55,6 @@ The worst employment slumps tend to follow the largest expansions of household d
 with [Giorgia Piacentino][giorgia]  (revise and resubmit at JET)
 
 Delegated asset managers frequently refer to credit ratings in the contracts they offer their investors.  However, regulators have advised against this.  Why?  In this paper, we present a model that suggests a new reason that delegated asset managers contract on credit ratings: contracting on ratings is a way for asset managers to compete for flows of investor capital.  However, competition among asset mangers triggers a race to the bottom: asset mangers use ratings in their contracts even though it is socially inefficient.  This inefficiency is due to a Hirshleifer-type effect by which contracting on ratings  prevents risk-sharing.
-
-#### [Warehouse Banking][WB] 
-with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan] (revise and resubmit at the JFE)
-
-We develop a theory of banking that explains why banks started out as commodities warehouses. We show that warehouses become banks because their superior storage technology allows them to enforce the repayment of loans most effectively. Further, interbank markets emerge endogenously to support this enforcement mechanism. Even though warehouses store deposits of real goods, they make loans by writing new "fake" warehouse receipts, rather than by taking deposits out of storage. Our theory helps to explain how modern banks create funding liquidity and why they combine warehousing (custody and deposit-taking), lending, and private money creation within the same institutions. It also casts light on a number of contemporary regulatory policies.
 
 
 #### [Netting][N] 
