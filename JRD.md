@@ -45,16 +45,19 @@ with [Eva Micheler][eva] (accepted at the JFE)
 
 Many debt claims, such as bonds, are *resaleable*, whereas others, such as repos, are not. There was a fivefold increase in repo borrowing before the 2008 crisis. Why? Did banks’ dependence on non-resaleable debt precipitate the crisis? In this paper, we develop a model of bank lending with credit frictions. The key feature of the model is that debt claims are heterogenous in their resaleability. We find that decreasing credit market frictions leads to an increase in borrowing via non-resaleable debt. Borrowing via non-resaleable debt has a dark side: it causes *credit chains* to form, since if a bank makes a loan via non-resaleable debt and needs liquidity, it cannot sell the loan but must borrow via a new contract. These credit chains are a source of systemic risk, since one bank’s default harms not only its creditors but also its creditors' creditors. Overall, our model suggests that reducing credit market frictions may have an adverse effect on the financial system and may even lead to the failures of financial institutions.
 
+####[Contracting to Compete for Flows][m] 
+with [Giorgia Piacentino][giorgia]  (conditionally accepted at JET)
+
+Delegated asset managers frequently refer to credit ratings in the contracts they offer their investors.  However, regulators have advised against this.  Why?  In this paper, we present a model that suggests a new reason that delegated asset managers contract on credit ratings: contracting on ratings is a way for asset managers to compete for flows of investor capital.  However, competition among asset mangers triggers a race to the bottom: asset mangers use ratings in their contracts even though it is socially inefficient.  This inefficiency is due to a Hirshleifer-type effect by which contracting on ratings  prevents risk-sharing.
 #### [Houshold Debt and Unemployment][BL] 
+
+
 with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan] (revise and resubmit at the JF)
 
 The worst employment slumps tend to follow the largest expansions of household debt. Using a competitive search model, we find that levered households protected by limited liability engage in risk-shifting by searching for jobs with high wages but low employment probabilities. In general equilibrium, firms respond to this household preference distortion and post high wages but few vacancies. This *vacancy-posting effect* implies that high household debt leads to high unemployment. The equilibrium level of household debt is inefficiently high due to a *household-debt externality.* We analyze the role that a financial regulator can play in mitigating this externality.
 
 
-####[Contracting on Credit Ratings to Compete for Flows][m] 
-with [Giorgia Piacentino][giorgia]  (revise and resubmit at JET)
 
-Delegated asset managers frequently refer to credit ratings in the contracts they offer their investors.  However, regulators have advised against this.  Why?  In this paper, we present a model that suggests a new reason that delegated asset managers contract on credit ratings: contracting on ratings is a way for asset managers to compete for flows of investor capital.  However, competition among asset mangers triggers a race to the bottom: asset mangers use ratings in their contracts even though it is socially inefficient.  This inefficiency is due to a Hirshleifer-type effect by which contracting on ratings  prevents risk-sharing.
 
 
 #### [Netting][N] 
