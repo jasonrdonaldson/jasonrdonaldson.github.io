@@ -96,7 +96,7 @@ In this paper, I model a dynamic market economy in which debt contracts are subj
 #### [Intermediation Variety][IV] 
 with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan]
 
-Non-depository financial intermediaries ("non-banks") have a higher cost of capital than depositories ("banks") do, because they do not benefit from government safety nets. How do they still compete with banks? In this paper, we develop a search-and-matching model of entrepreneurial finance with endogenous intermediary entry. With only bank finance, entrepreneurs make inefficient project choices, forgoing innovative projects for traditional projects. However, non-banks emerge to mitigate this inefficiency: they use their high cost of capital as a commitment device not to fund traditional projects, inducing entrepreneurs to innovative efficiently. Despite earning high returns, non- banks never take over the entire market, but coexist with banks in equilibrium.
+We explain the endogenous emergence of a variety of lending intermediaries in a model based only on differences in their funding costs. Banks have a lower cost of capital than non-banks due to government safety nets. However, with only bank finance, entrepreneurs make inefficient project choices, forgoing innovative projects for traditional projects. Non-banks emerge to mitigate this inefficiency, using their high cost of capital as a commitment device not to fund traditional projects, thus inducing entrepreneurs to innovate efficiently. Despite earning high returns, non-banks never take over the entire market, but coexist with banks in general equilibrium.
 
 
 
