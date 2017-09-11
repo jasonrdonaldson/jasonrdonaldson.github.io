@@ -57,7 +57,11 @@ with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan] (revise and resubmi
 The worst employment slumps tend to follow the largest expansions of household debt. Using a competitive search model, we find that levered households protected by limited liability engage in risk-shifting by searching for jobs with high wages but low employment probabilities. In general equilibrium, firms respond to this household preference distortion and post high wages but few vacancies. This *vacancy-posting effect* implies that high household debt leads to high unemployment. The equilibrium level of household debt is inefficiently high due to a *household-debt externality.* We analyze the role that a financial regulator can play in mitigating this externality.
 
 
+#### [Deadlock on the Board][DL] 
 
+with [Nadya Malenko][nadya] and [Giorgia Piacentino][giorgia]  
+
+We develop a dynamic model of board decision making. We show that directors may knowingly retain the policy they all think is the worst just because they fear they may disagree about what policy is best in the future---the fear of deadlock begets deadlock. Board diversity can exacerbate deadlock. Hence, shareholders may optimally appoint a biased director to avoid deadlock, whereas a CEO may appoint an independent director to create deadlock, and thus entrench himself. Our theory thus gives a new explanation for CEO entrenchment. It also gives a new perspective on director tenure, staggered boards, and short-termism.
 
 
 #### [Netting][N] 
@@ -131,6 +135,9 @@ PAPERS
 -->
 
 
+
+[DL]:http://jrdonaldson.com/Papers/Donaldson-Malenko-Piacentino-Deadlock.pdf
+
 [N]:http://jrdonaldson.com/Papers/Donaldson-Piacentino-Netting.pdf
 
 [MR]:http://jrdonaldson.com/Papers/Donaldson-Piacentino-Money_Runs.pdf
@@ -160,7 +167,7 @@ PEOPLE
 [eva]: http://www.lse.ac.uk/collections/law/staff/eva-micheler.htm
 [JP]: http://www2.lse.ac.uk/finance/people/profiles/jean-PierreZigrand.aspx
 [denis]: http://denis.gromb.pagesperso-orange.fr
-
+[nadya]: https://www2.bc.edu/nadya-malenko/
 <!---
 AFFILIATIONS 
 -->
