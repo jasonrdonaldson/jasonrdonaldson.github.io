@@ -32,6 +32,23 @@ and here
 -->
 
 
+#### [Houshold Debt and Unemployment][HHD] 
+
+with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan] (forthcoming at the JF)
+
+We use a labor-search model to explain why the worst employment slumps often follow expansions of household debt. We find that households protected by limited liability suffer from a household-debt-overhang problem that leads them to require high wages to work. Firms respond by posting high wages but few vacancies. This *vacancy-posting effect* implies that high household debt leads to high unemployment. Even though households borrow from banks via bilaterally optimal contracts, the equilibrium level of household debt is inefficiently high due to a *household-debt externality*. We analyze the role that a financial regulator can play in mitigating this externality.
+
+<!----
+NB: the working paper version focused on household risk-shifting, rather than debt overhang.  It is retitled [Household Risk-shifting in the Labor Market] [BL].
+-->
+
+####[Contracting to Compete for Flows][m] 
+with [Giorgia Piacentino][giorgia]  (accepted at JET)
+
+We present a model in which asset managers design their contracts to attract flows of investor capital.  We find that they make their contracts depend on public information, e.g. credit ratings or benchmark indices, as a way  to attract flows, rather than as a way to mitigate incentive problems, as has been emphasized in the literature. Unfortunately, asset managers' competition for flows triggers a race to the bottom: asset managers use public information in their contracts even though it is socially inefficient.  This inefficiency arises because contracting on public information  prevents risk sharing.   
+
+
+
 #### [Warehouse Banking][WB] 
 with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan] (accepted at the JFE)
 
@@ -45,18 +62,9 @@ with [Eva Micheler][eva] (accepted at the JFE)
 
 Many debt claims, such as bonds, are *resaleable*, whereas others, such as repos, are not. There was a fivefold increase in repo borrowing before the 2008 crisis. Why? Did banks’ dependence on non-resaleable debt precipitate the crisis? In this paper, we develop a model of bank lending with credit frictions. The key feature of the model is that debt claims are heterogenous in their resaleability. We find that decreasing credit market frictions leads to an increase in borrowing via non-resaleable debt. Borrowing via non-resaleable debt has a dark side: it causes *credit chains* to form, since if a bank makes a loan via non-resaleable debt and needs liquidity, it cannot sell the loan but must borrow via a new contract. These credit chains are a source of systemic risk, since one bank’s default harms not only its creditors but also its creditors' creditors. Overall, our model suggests that reducing credit market frictions may have an adverse effect on the financial system and may even lead to the failures of financial institutions.
 
-####[Contracting to Compete for Flows][m] 
-with [Giorgia Piacentino][giorgia]  (accepted at JET)
-
-We present a model in which asset managers design their contracts to attract flows of investor capital.  We find that they make their contracts depend on public information, e.g. credit ratings or benchmark indices, as a way  to attract flows, rather than as a way to mitigate incentive problems, as has been emphasized in the literature. Unfortunately, asset managers' competition for flows triggers a race to the bottom: asset managers use public information in their contracts even though it is socially inefficient.  This inefficiency arises because contracting on public information  prevents risk sharing.   
 
 
-#### [Houshold Debt and Unemployment][BL] 
 
-
-with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan] (revise and resubmit at the JF)
-
-The worst employment slumps tend to follow the largest expansions of household debt. Using a competitive search model, we find that levered households protected by limited liability engage in risk-shifting by searching for jobs with high wages but low employment probabilities. In general equilibrium, firms respond to this household preference distortion and post high wages but few vacancies. This *vacancy-posting effect* implies that high household debt leads to high unemployment. The equilibrium level of household debt is inefficiently high due to a *household-debt externality.* We analyze the role that a financial regulator can play in mitigating this externality.
 
 
 #### [Deadlock on the Board][DL] 
@@ -148,6 +156,8 @@ PAPERS
 [WB]:http://jrdonaldson.com/Papers/Donaldson-Piacentino-Thakor-Warehouse_Banking.pdf
 
 [BL]:http://jrdonaldson.com/Papers/Donaldson-Piacentino-Thakor-Banking_and_Labor.pdf
+
+[HHD]:http://jrdonaldson.com/Papers/Donaldson-Piacentino-Thakor-Household_Debt.pdf
 
 [Paradox]: http://jrdonaldson.com/Papers/Donaldson-Gromb-Piacentino-Paradox.pdf
 
