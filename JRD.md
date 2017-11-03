@@ -16,7 +16,8 @@ src="//c.statcounter.com/8924220/0/22994e8d/1/" alt="web
 analytics"></a></div></noscript>
 <!-- End of StatCounter Code for Default Guide -->
 # Jason Roderick Donaldson #
-#### Assistant Professor, Olin Business School, Washington University in St Louis
+#### Assistant Professor of Finance, Washington University in St Louis
+####CEPR Research Affiliate 
 j.r.donaldson@wustl.edu
 
 ![][picture]
@@ -117,6 +118,8 @@ We explain the endogenous emergence of a variety of lending intermediaries in a 
 
 ## Affiliations ##
 
+#### [CEPR][cepr]###
+
 #### [Systemic Risk Centre][src] ###
 
 #### [Finance Theory Group][ftg]
@@ -184,6 +187,7 @@ PEOPLE
 AFFILIATIONS 
 -->
 
+[cepr]: http://cepr.org
 [src]: http://www.systemicrisk.ac.uk
 [ftg]: http://www.financetheory.org
 [lfg]: https://sites.google.com/site/laborandfinancegroup/
