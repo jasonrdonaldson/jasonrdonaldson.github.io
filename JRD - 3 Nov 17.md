@@ -68,14 +68,6 @@ Many debt claims, such as bonds, are resaleable, whereas others, such as repos, 
 
 
 
-#### [Intermediation Variety][IV] 
-with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan] (revise and resubmit at the JF)
-
-We explain the endogenous emergence of a variety of lending intermediaries in a model based only on differences in their funding costs. Banks have a lower cost of capital than non-banks due to government safety nets. However, with only bank finance, entrepreneurs make inefficient project choices, forgoing innovative projects for traditional projects. Non-banks emerge to mitigate this inefficiency, using their high cost of capital as a commitment device not to fund traditional projects, thus inducing entrepreneurs to innovate efficiently. Despite earning high returns, non-banks never take over the entire market, but coexist with banks in general equilibrium.
-
-
-
-
 
 #### [Deadlock on the Board][DL] 
 
@@ -111,6 +103,13 @@ In this paper, I model a dynamic market economy in which debt contracts are subj
 
 
 
+
+
+
+#### [Intermediation Variety][IV] 
+with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan]
+
+We explain the endogenous emergence of a variety of lending intermediaries in a model based only on differences in their funding costs. Banks have a lower cost of capital than non-banks due to government safety nets. However, with only bank finance, entrepreneurs make inefficient project choices, forgoing innovative projects for traditional projects. Non-banks emerge to mitigate this inefficiency, using their high cost of capital as a commitment device not to fund traditional projects, thus inducing entrepreneurs to innovate efficiently. Despite earning high returns, non-banks never take over the entire market, but coexist with banks in general equilibrium.
 
 
 
