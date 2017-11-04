@@ -61,9 +61,15 @@ We develop a theory of banking that explains why banks started out as commoditie
 with [Eva Micheler][eva] (accepted at the JFE)
 
 
-Many debt claims, such as bonds, are *resaleable*, whereas others, such as repos, are not. There was a fivefold increase in repo borrowing before the 2008 crisis. Why? Did banks’ dependence on non-resaleable debt precipitate the crisis? In this paper, we develop a model of bank lending with credit frictions. The key feature of the model is that debt claims are heterogenous in their resaleability. We find that decreasing credit market frictions leads to an increase in borrowing via non-resaleable debt. Borrowing via non-resaleable debt has a dark side: it causes *credit chains* to form, since if a bank makes a loan via non-resaleable debt and needs liquidity, it cannot sell the loan but must borrow via a new contract. These credit chains are a source of systemic risk, since one bank’s default harms not only its creditors but also its creditors' creditors. Overall, our model suggests that reducing credit market frictions may have an adverse effect on the financial system and may even lead to the failures of financial institutions.
+Many debt claims, such as bonds, are *resaleable*, whereas others, such as repos, are not. There was a fivefold increase in repo borrowing before the 2008 crisis. Why? Did banks’ dependence on non-resaleable debt precipitate the crisis? In this paper, we develop a model of bank lending with credit frictions. The key feature of the model is that debt claims are heterogenous in their resaleability. We find that decreasing credit market frictions leads to an increase in borrowing via non-resaleable debt. Borrowing via non-resaleable debt has a dark side: it causes *credit chains* to form, since if a bank makes a loan via non-resaleable debt and needs liquidity, it cannot sell the loan but must borrow via a new contract. These credit chains are a source of systemic risk, since one bank’s default harms not only its creditors but also its creditors' creditors. Overall, our model suggests that reducing credit market frictions may have an adverse effect on the financial system and m\input{JRD.md}
+ay even lead to the failures of financial institutions.
 
 
+
+#### [Intermediation Variety][IV] 
+with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan] (revise and resubmit at the JF)
+
+We explain the endogenous emergence of a variety of lending intermediaries in a model based only on differences in their funding costs. Banks have a lower cost of capital than non-banks due to government safety nets. However, with only bank finance, entrepreneurs make inefficient project choices, forgoing innovative projects for traditional projects. Non-banks emerge to mitigate this inefficiency, using their high cost of capital as a commitment device not to fund traditional projects, thus inducing entrepreneurs to innovate efficiently. Despite earning high returns, non-banks never take over the entire market, but coexist with banks in general equilibrium.
 
 
 
@@ -101,17 +107,6 @@ In this paper, we develop a model in which collateral serves to protect creditor
 
 
 In this paper, I model a dynamic market economy in which debt contracts are subject to renegotiation. I find that a firm with more cyclical cash flows can borrow more than a firm with less cyclical cash flows, consistent with empirical evidence.  The reason is that a firm with cyclical cash flows puts its creditors in a relatively strong bargaining position when debt is renegotiated.  In general equilibrium, this leads to a collateral premium for assets that generate cyclical cash flows---they are expensive because they allow firms to borrow against them, scaling up their investments via leverage.  Endogenous variation in enforcement frictions generates business cycle fluctuations in both firm-level and aggregate quantities consistent with stylized facts, even in the absence of capital accumulation or technology shocks.
-
-
-
-
-
-
-
-#### [Intermediation Variety][IV] 
-with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan]
-
-We explain the endogenous emergence of a variety of lending intermediaries in a model based only on differences in their funding costs. Banks have a lower cost of capital than non-banks due to government safety nets. However, with only bank finance, entrepreneurs make inefficient project choices, forgoing innovative projects for traditional projects. Non-banks emerge to mitigate this inefficiency, using their high cost of capital as a commitment device not to fund traditional projects, thus inducing entrepreneurs to innovate efficiently. Despite earning high returns, non-banks never take over the entire market, but coexist with banks in general equilibrium.
 
 
 
