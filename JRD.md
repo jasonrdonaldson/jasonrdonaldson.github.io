@@ -30,6 +30,7 @@ j.r.donaldson@wustl.edu
 
 your comment goes here
 and here
+and here
 -->
 
 
@@ -96,9 +97,6 @@ We present a banking model in which bank debt circulates in secondary markets, f
 with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia]
 
 In this paper, we develop a model in which collateral serves to protect creditors from the claims of competing creditors. We find that borrowers rely most on collateral when cash flow pledgeability is high, because this is when it is easy to take on new debt, diluting existing creditors. Creditors thus require collateral for protection against being diluted. This causes a collateral rat race that results in all borrowing being collateralized. But collateralized borrowing has a cost: it encumbers assets, constraining future borrowing and investment, i.e. there is a collateral overhang. Our results suggest that increasing the supply of collateral can have adverse effects.
-
-
-
 
 
 
