@@ -45,7 +45,7 @@ NB: the working paper version focused on household risk-shifting, rather than de
 -->
 
 ####[Contracting to Compete for Flows][m] 
-with [Giorgia Piacentino][giorgia]  (accepted at JET)
+with [Giorgia Piacentino][giorgia]  (forthcoming at JET)
 
 We present a model in which asset managers design their contracts to attract flows of investor capital.  We find that they make their contracts depend on public information, e.g. credit ratings or benchmark indices, as a way  to attract flows, rather than as a way to mitigate incentive problems, as has been emphasized in the literature. Unfortunately, asset managers' competition for flows triggers a race to the bottom: asset managers use public information in their contracts even though it is socially inefficient.  This inefficiency arises because contracting on public information  prevents risk sharing.   
 
@@ -59,7 +59,7 @@ We develop a theory of banking that explains why banks started out as commoditie
 
 
 ####[Resaleable Debt and Systemic Risk][n] 
-with [Eva Micheler][eva] (accepted at the JFE)
+with [Eva Micheler][eva] (forthcoming at the JFE)
 
 
 Many debt claims, such as bonds, are resaleable, whereas others, such as repos, are not. There was a fivefold increase in repo borrowing before the 2008 crisis. Why? Did banks' dependence on non-resaleable debt precipitate the crisis? In this paper, we develop a model of bank lending with credit frictions. The key feature of the model is that debt claims are heterogenous in their resaleability. We find that decreasing credit market frictions leads to an increase in borrowing via non-resaleable debt. Borrowing via non-resaleable debt has a dark side: it causes credit chains to form, since if a bank makes a loan via non-resaleable debt and needs liquidity, it cannot sell the loan but must borrow via a new contract. These credit chains are a source of systemic risk, since one bank's default harms not only its creditors but also its creditors' creditors. Overall, our model suggests that reducing credit market frictions may have an adverse effect on the financial system and may even lead to the failures of financial institutions.
