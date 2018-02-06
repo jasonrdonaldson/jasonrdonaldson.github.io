@@ -66,6 +66,10 @@ Many debt claims, such as bonds, are resaleable, whereas others, such as repos, 
 
 
 
+#### [The Paradox of Pledgeability][Paradox] 
+with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia] (revise and resubmit at the JFE)
+
+We develop a model in which collateral serves to protect creditors from the claims of other creditors. We find that, paradoxically, borrowers rely most on collateral when pledgeability is high, because this is when it is easy to take on new debt, which dilutes existing creditors. Creditors thus require collateral for protection against dilution---there is a ''collateral rat race.'' But collateralized borrowing has a cost: it encumbers assets, constraining future borrowing and investment---there is a ``collateral overhang.'' Our results suggest that policies aimed at increasing the supply of collateral may backfire, triggering an inefficient collateral rat race. Likewise, upholding the absolute priority of secured debt can exacerbate the rat race.
 
 
 #### [Intermediation Variety][IV] 
@@ -73,6 +77,12 @@ with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan] (revise and resubmi
 
 We explain the endogenous emergence of a variety of lending intermediaries in a model based only on differences in their funding costs. Banks have a lower cost of capital than non-banks due to government safety nets. However, with only bank finance, entrepreneurs make inefficient project choices, forgoing innovative projects for traditional projects. Non-banks emerge to mitigate this inefficiency, using their high cost of capital as a commitment device not to fund traditional projects, thus inducing entrepreneurs to innovate efficiently. Despite earning high returns, non-banks never take over the entire market, but coexist with banks in general equilibrium.
 
+
+#### [Money Runs][MR] 
+
+with [Giorgia Piacentino][giorgia]  
+
+We present a banking model in which bank debt circulates as "money" in decentralized secondary markets, like banknotes did in the nineteenth century and repos do today. We find that bank debt is susceptible to runs because secondary-market liquidity is subject to sudden, self-fulfilling dry-ups. When debt fails to circulate it is redeemed on demand in a "money run." Even though demandable debt exposes banks to costly runs, banks still want to issue it. Indeed, to facilitate creating demandable money, banks in our model pool investments and transform maturity/liquidity---they endogenously do something that resembles real-world banking. Thus, the model suggests a raison d'etre for banking based on money creation alone.
 
 
 
@@ -89,16 +99,6 @@ We develop a dynamic model of board decision making. We show that directors may 
 with [Giorgia Piacentino][giorgia]  
 
 We present a model to explain why banks hold off-setting debts without netting them out. We find that off-setting debts help a bank to raise liquidity with new debt from a third party, since diluting old debt subsidizes the new debt. Even though a diluted bank is worse off ex post, a network of gross debts is stable ex ante. This is because it provides banks with valuable liquidity co-insurance, since each bank exercises its option to dilute when it needs liquidity most. However, the network harbors systemic risk: since one bank's liabilities are other banks' assets, a liquidity shock can transmit through the network in a default cascade.
-
-#### [Money Runs][MR] 
-
-with [Giorgia Piacentino][giorgia]  
-
-We present a banking model in which bank debt circulates in secondary markets, facilitating trade. The key friction is that secondary market trade is decentralized, i.e. bank debt is traded over the counter like banknotes were in the nineteenth century and repos are today. We find that bank debt is susceptible to runs because secondary market liquidity is fragile, and subject to sudden, self-fulfilling dry-ups. When debt fails to circulate it is redeemed on demand in a ``money run.''  Even though demandable debt exposes banks to costly runs, banks still choose to issue it because it increases their debt capacity: the option to demand increases the price of debt in the secondary market and hence allows banks to borrow more in the primary market---unlike in existing models, demandability and tradeability are complements.
-
-#### [The Paradox of Pledgeability][Paradox] 
-with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia]
-We develop a model in which collateral serves to protect creditors from the claims of other creditors. We find that, paradoxically, borrowers rely most on collateral when pledgeability is high, because this is when it is easy to take on new debt, which dilutes existing creditors. Creditors thus require collateral for protection against dilution---there is a ''collateral rat race.'' But collateralized borrowing has a cost: it encumbers assets, constraining future borrowing and investment---there is a ``collateral overhang.'' Our results suggest that policies aimed at increasing the supply of collateral may backfire, triggering an inefficient collateral rat race. Likewise, upholding the absolute priority of secured debt can exacerbate the rat race.
 
 
 
