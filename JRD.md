@@ -89,7 +89,7 @@ We present a banking model in which bank debt circulates as "money" in decentral
 
 #### [Deadlock on the Board][DL] 
 
-with [Nadya Malenko][nadya] and [Giorgia Piacentino][giorgia]  
+with [Nadya Malenko][nadya] and [Giorgia Piacentino][giorgia]  (Best Paper Award at the 2018 ASU Sonoran Winter Finance Conference)
 
 We develop a dynamic model of board decision making. We show that directors may knowingly retain the policy they all think is the worst just because they fear they may disagree about what policy is best in the future---the fear of deadlock begets deadlock. Board diversity can exacerbate deadlock. Hence, shareholders may optimally appoint a biased director to avoid deadlock, whereas a CEO may appoint an independent director to create deadlock, and thus entrench himself. Our theory thus gives a new explanation for CEO entrenchment. It also gives a new perspective on director tenure, staggered boards, and short-termism.
 
