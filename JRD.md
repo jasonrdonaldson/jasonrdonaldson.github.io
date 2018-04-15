@@ -93,6 +93,13 @@ with [Nadya Malenko][nadya] and [Giorgia Piacentino][giorgia]  (Best Paper Award
 
 We develop a dynamic model of board decision making. We show that directors may knowingly retain the policy they all think is the worst just because they fear they may disagree about what policy is best in the future---the fear of deadlock begets deadlock. Board diversity can exacerbate deadlock. Hence, shareholders may optimally appoint a biased director to avoid deadlock, whereas a CEO may appoint an independent director to create deadlock, and thus entrench himself. Our theory thus gives a new explanation for CEO entrenchment. It also gives a new perspective on director tenure, staggered boards, and short-termism.
 
+#### [Procyclical Promises][PP] 
+
+
+I explore how cyclicality affects debt capacity. Procyclicality has a well-known cost: procyclical firms make lower repayments in recessions. I point out that it can also have a benefit: procyclical firms make higher repayments on average. The reason is that their output is high when asset prices are high, and these high asset prices mitigate financial frictions, such as collateral constraints. This benefit is present across diverse models of financial frictions, and can be as important for debt capacity as the cost. It affects macroeconomic outcomes, generating aggregate fluctuations and a premium for assets used by procyclical firms.
+
+
+
 
 #### [Netting][N] 
 
@@ -101,11 +108,6 @@ with [Giorgia Piacentino][giorgia]
 We present a model to explain why banks hold off-setting debts without netting them out. We find that off-setting debts help a bank to raise liquidity with new debt from a third party, since diluting old debt subsidizes the new debt. Even though a diluted bank is worse off ex post, a network of gross debts is stable ex ante. This is because it provides banks with valuable liquidity co-insurance, since each bank exercises its option to dilute when it needs liquidity most. However, the network harbors systemic risk: since one bank's liabilities are other banks' assets, a liquidity shock can transmit through the network in a default cascade.
 
 
-
-#### [Procyclical Promises][PP] 
-
-
-In this paper, I model a dynamic market economy in which debt contracts are subject to renegotiation. I find that a firm with more cyclical cash flows can borrow more than a firm with less cyclical cash flows, consistent with empirical evidence.  The reason is that a firm with cyclical cash flows puts its creditors in a relatively strong bargaining position when debt is renegotiated.  In general equilibrium, this leads to a collateral premium for assets that generate cyclical cash flows---they are expensive because they allow firms to borrow against them, scaling up their investments via leverage.  Endogenous variation in enforcement frictions generates business cycle fluctuations in both firm-level and aggregate quantities consistent with stylized facts, even in the absence of capital accumulation or technology shocks.
 
 
 
