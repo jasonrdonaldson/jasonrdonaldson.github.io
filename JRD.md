@@ -1,4 +1,9 @@
-<!-- Start of StatCounter Code for Default Guide -->
+
+
+<!---
+ Start of StatCounter Code for Default Guide 
+ -->
+ 
 <script type="text/javascript">
 var sc_project=8924220; 
 var sc_invisible=1; 
@@ -31,8 +36,7 @@ j.r.donaldson@wustl.edu
 your comment goes here
 and here
 and here
--->
-
+ --->
 
 #### [Houshold Debt and Unemployment][HHD] 
 
