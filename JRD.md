@@ -56,14 +56,14 @@ We present a model in which asset managers design their contracts to attract flo
 
 
 #### [Warehouse Banking][WB] 
-with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan] (accepted at the JFE)
+with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan] (in the  JFE 129)
 
 We develop a theory of banking that explains why banks started out as commodities warehouses. We show that warehouses become banks because their superior storage technology allows them to enforce the repayment of loans most effectively. Further, interbank markets emerge endogenously to support this enforcement mechanism. Even though warehouses store deposits of real goods, they make loans by writing new "fake" warehouse receipts, rather than by taking deposits out of storage. Our theory helps to explain how modern banks create funding liquidity and why they combine warehousing (custody and deposit-taking), lending, and private money creation within the same institutions. It also casts light on a number of contemporary regulatory policies.
 
 
 
 ####[Resaleable Debt and Systemic Risk][n] 
-with [Eva Micheler][eva] (in the JFE 127 3)
+with [Eva Micheler][eva] (in the JFE 127)
 
 
 Many debt claims, such as bonds, are resaleable, whereas others, such as repos, are not. There was a fivefold increase in repo borrowing before the 2008 crisis. Why? Did banks' dependence on non-resaleable debt precipitate the crisis? In this paper, we develop a model of bank lending with credit frictions. The key feature of the model is that debt claims are heterogenous in their resaleability. We find that decreasing credit market frictions leads to an increase in borrowing via non-resaleable debt. Borrowing via non-resaleable debt has a dark side: it causes credit chains to form, since if a bank makes a loan via non-resaleable debt and needs liquidity, it cannot sell the loan but must borrow via a new contract. These credit chains are a source of systemic risk, since one bank's default harms not only its creditors but also its creditors' creditors. Overall, our model suggests that reducing credit market frictions may have an adverse effect on the financial system and may even lead to the failures of financial institutions.
