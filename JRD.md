@@ -102,8 +102,8 @@ We develop a dynamic model of board decision making. We show that a board may be
 #### [Procyclical Promises][PP] 
 
 
-I explore how the cyclicality of firms? output affects their debt capacity. I point out that, although firms with procyclical output make low repayments in recessions (when marginal utility is high), they can make higher repayments on average. The reason is that their output is high when asset prices are high, and these high asset prices mitigate financial frictions, such as collateral constraints. This benefit is present across diverse models of financial frictions, and can be a first-order determinant of debt capacity. It affects macroeconomic outcomes, generating aggregate fluctuations and a premium for assets used by procyclical firms.
 
+I explore how the cyclicality of firms' output affects their debt capacity. I point out that, in contrast to received theory, procyclical firms can have an advantage in the debt market. Because they have more assets in booms, when assets prices are high ex post, they have looser collateral constraints ex ante---assets are useful as collateral only when they are valuable. This advantage is present across diverse models of borrowing constraints, and can be a first-order determinant of debt capacity. In general equilibrium, it generates firm-level and aggregate fluctuations consistent with stylized facts and a premium for ``procyclical assets.''
 
 
 
