@@ -103,7 +103,8 @@ We develop a dynamic model of board decision making. We show that a board may be
 
 
 
-I explore how the cyclicality of firms' output affects their debt capacity. I point out that, in contrast to received theory, procyclical firms can have an advantage in the debt market. Because they have more assets in booms, when assets prices are high ex post, they have looser collateral constraints ex ante---assets are useful as collateral only when they are valuable. This advantage is present across diverse models of borrowing constraints, and can be a first-order determinant of debt capacity. In general equilibrium, it generates firm-level and aggregate fluctuations consistent with stylized facts and a premium for ``procyclical assets.''
+
+I explore how the cyclicality of firms' output affects their debt capacity. I point out that, in contrast to received theory, procyclical firms can have an advantage in the funding market. Because they have more assets in booms, when asset prices are high ex post, they have looser collateral constraints ex ante---assets are useful as collateral only when they are valuable. This advantage is present across diverse models of borrowing constraints, and can be a first-order determinant of debt capacity. In dynamic general equilibrium, debt capacity goes up in booms, improving capital allocation and generating fluctuations in firm-level and aggregate variables consistent with stylized facts, even absent technology shocks. Further, "procyclical assets" are priced at a premium.
 
 
 
