@@ -82,6 +82,12 @@ with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan] (revise and resubmi
 We explain the endogenous emergence of a variety of lending intermediaries in a model based only on differences in their funding costs. Banks have a lower cost of capital than non-banks due to government safety nets. However, with only bank finance, entrepreneurs make inefficient project choices, forgoing innovative projects for traditional projects. Non-banks emerge to mitigate this inefficiency, using their high cost of capital as a commitment device not to fund traditional projects, thus inducing entrepreneurs to innovate efficiently. Despite earning high returns, non-banks never take over the entire market, but coexist with banks in general equilibrium.
 
 
+#### [The Opportunity Cost of Collateral][OC] 
+
+with [Mina Lee][mina] and [Giorgia Piacentino][giorgia]  
+
+We develop a dynamic model of borrowing and lending in the interbank market, in which banks fund investments through short-term collateralized debt, like repos. This debt is not a perfect substitute for cash: lending banks may not be able to convert their loans to cash to fund their own investments. Hence, lending comes with an opportunity cost that generates positive spreads even absent any credit risk. The opportunity cost channel gives a new explanation for why credit is tight in crises and loose beforehand. Through banks' collateral constraints, the opportunity cost also determines asset demand and prices, creating a feedback loop that can result in multiple, welfare-ranked equilibria. High-leverage equilibria are inefficient in booms; hence, countercyclical capital regulation can improve welfare.
+
 #### [Money Runs][MR] 
 
 with [Giorgia Piacentino][giorgia]  
@@ -179,6 +185,8 @@ PAPERS
 
 [m]: http://jrdonaldson.com/Papers/Donaldson-Piacentino-Contracting_for_Flows.pdf
 
+[OC]: http://jrdonaldson.com/Papers/Donaldson-Lee-Piacentino-Opportunity_Cost.pdf
+
 
 <!---
 PEOPLE
@@ -190,6 +198,7 @@ PEOPLE
 [JP]: http://www2.lse.ac.uk/finance/people/profiles/jean-PierreZigrand.aspx
 [denis]: http://denis.gromb.pagesperso-orange.fr
 [nadya]: https://www2.bc.edu/nadya-malenko/
+[mina]: https://sites.google.com/view/minalee/home
 <!---
 AFFILIATIONS 
 -->
