@@ -37,6 +37,16 @@ your comment goes here
 and here
 and here
  --->
+ 
+ 
+ 
+#### [The Paradox of Pledgeability][Paradox] 
+with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia] (accepted at the JFE)
+
+We develop a model in which collateral serves to protect creditors from the claims of other creditors. We find that, paradoxically, borrowers rely most on collateral when pledgeability is high, because this is when it is easy to take on new debt, which dilutes existing creditors. Creditors thus require collateral for protection against dilution---there is a ''collateral rat race.'' But collateralized borrowing has a cost: it encumbers assets, constraining future borrowing and investment---there is a ``collateral overhang.'' Our results suggest that policies aimed at increasing the supply of collateral may backfire, triggering an inefficient collateral rat race. Likewise, upholding the absolute priority of secured debt can exacerbate the rat race.
+
+
+
 
 #### [Houshold Debt and Unemployment][HHD] 
 
@@ -69,11 +79,6 @@ with [Eva Micheler][eva] (in the JFE 127)
 Many debt claims, such as bonds, are resaleable, whereas others, such as repos, are not. There was a fivefold increase in repo borrowing before the 2008 crisis. Why? Did banks' dependence on non-resaleable debt precipitate the crisis? In this paper, we develop a model of bank lending with credit frictions. The key feature of the model is that debt claims are heterogenous in their resaleability. We find that decreasing credit market frictions leads to an increase in borrowing via non-resaleable debt. Borrowing via non-resaleable debt has a dark side: it causes credit chains to form, since if a bank makes a loan via non-resaleable debt and needs liquidity, it cannot sell the loan but must borrow via a new contract. These credit chains are a source of systemic risk, since one bank's default harms not only its creditors but also its creditors' creditors. Overall, our model suggests that reducing credit market frictions may have an adverse effect on the financial system and may even lead to the failures of financial institutions.
 
 
-
-#### [The Paradox of Pledgeability][Paradox] 
-with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia] (revise and resubmit at the JFE)
-
-We develop a model in which collateral serves to protect creditors from the claims of other creditors. We find that, paradoxically, borrowers rely most on collateral when pledgeability is high, because this is when it is easy to take on new debt, which dilutes existing creditors. Creditors thus require collateral for protection against dilution---there is a ''collateral rat race.'' But collateralized borrowing has a cost: it encumbers assets, constraining future borrowing and investment---there is a ``collateral overhang.'' Our results suggest that policies aimed at increasing the supply of collateral may backfire, triggering an inefficient collateral rat race. Likewise, upholding the absolute priority of secured debt can exacerbate the rat race.
 
 
 #### [Intermediation Variety][IV] 
