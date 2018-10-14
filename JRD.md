@@ -79,6 +79,14 @@ with [Eva Micheler][eva] (in the JFE 127)
 Many debt claims, such as bonds, are resaleable, whereas others, such as repos, are not. There was a fivefold increase in repo borrowing before the 2008 crisis. Why? Did banks' dependence on non-resaleable debt precipitate the crisis? In this paper, we develop a model of bank lending with credit frictions. The key feature of the model is that debt claims are heterogenous in their resaleability. We find that decreasing credit market frictions leads to an increase in borrowing via non-resaleable debt. Borrowing via non-resaleable debt has a dark side: it causes credit chains to form, since if a bank makes a loan via non-resaleable debt and needs liquidity, it cannot sell the loan but must borrow via a new contract. These credit chains are a source of systemic risk, since one bank's default harms not only its creditors but also its creditors' creditors. Overall, our model suggests that reducing credit market frictions may have an adverse effect on the financial system and may even lead to the failures of financial institutions.
 
 
+#### [Deadlock on the Board][DL] 
+
+with [Nadya Malenko][nadya] and [Giorgia Piacentino][giorgia]  (revise and resubmit at the RFS)
+
+Best Paper Award at the 2018 ASU Sonoran Winter Finance Conference
+
+We develop a dynamic model of board decision making. We show that a board may be unable to make a decision even if all directors agree on what the best decision is. Thus, the board may be unable to fire a CEO all directors agree is bad---a deadlocked board leads to an entrenched CEO. We explore how to compose the board and appoint directors to mitigate the costs of deadlock. We find that board diversity and long director tenure can exacerbate deadlock. Moreover, we rationalize why CEOs and incumbent directors have the power to appoint new directors: it helps to avoid deadlock. Our model also gives a new perspective on staggered boards and short-termism.
+
 
 
 #### [Intermediation Variety][IV] 
@@ -87,8 +95,6 @@ with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan] (revise and resubmi
 We explain the endogenous emergence of a variety of lending intermediaries in a model based only on differences in their funding costs. Banks have a lower cost of capital than non-banks due to government safety nets. However, with only bank finance, entrepreneurs make inefficient project choices, forgoing innovative projects for traditional projects. Non-banks emerge to mitigate this inefficiency, using their high cost of capital as a commitment device not to fund traditional projects, thus inducing entrepreneurs to innovate efficiently. Despite earning high returns, non-banks never take over the entire market, but coexist with banks in general equilibrium.
 
 <!---
-
- 
  
 #### [The Opportunity Cost of Collateral][OC] 
 
@@ -107,12 +113,6 @@ We present a banking model in which bank debt circulates as "money" in decentral
 
 
 
-#### [Deadlock on the Board][DL] 
-
-with [Nadya Malenko][nadya] and [Giorgia Piacentino][giorgia]  (Best Paper Award at the 2018 ASU Sonoran Winter Finance Conference)
-
-
-We develop a dynamic model of board decision making. We show that a board may be unable to make a decision even if all directors agree on what the best decision is. Thus, the board may be unable to fire a CEO all directors agree is bad---a deadlocked board leads to an entrenched CEO. We explore how to compose the board and appoint directors to mitigate the costs of deadlock. We find that board diversity and long director tenure can exacerbate deadlock. Moreover, we rationalize why CEOs and incumbent directors have the power to appoint new directors: it helps to avoid deadlock. Our model also gives a new perspective on staggered boards and short-termism.
 
 
 #### [Procyclical Promises][PP] 
