@@ -48,11 +48,11 @@ We develop a model in which collateral serves to protect creditors from the clai
 
 
 
-#### [Household Debt and Unemployment][HHD] 
+#### [Household Debt Overhang and Unemployment][HHD] 
 
-with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan], 2017 (forthcoming at the **JF**)
+with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan], 2019 (in the **JF** 74)
 
-Using a search model, we find that levered households protected by limited liability suffer from a household-debt-overhang problem that leads them to require high wages to work. Firms respond by posting high wages but few vacancies.   The equilibrium level of household debt is inefficiently high due to a household-debt externality.
+We use a labor-search model to explain why the worst employment slumps often follow expansions of household debt. We find that households protected by limited liability suffer from a household-debt-overhang problem that leads them to require high wages to work. Firms respond by posting high wages but few vacancies. This **vacancy posting effect** implies that high household debt leads to high unemployment. Even though households borrow from banks via bilaterally optimal contracts, the equilibrium level of household debt is inefficiently high due to a **household-debt externality.** We analyze the role that a financial regulator can play in mitigating this externality
 
 <!----
 NB: the working paper version focused on household risk-shifting, rather than debt overhang.  It is retitled [Household Risk-shifting in the Labor Market] [BL].
