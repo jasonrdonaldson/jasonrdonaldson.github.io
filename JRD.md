@@ -92,7 +92,7 @@ In a dynamic model of board decision making, directors strategically block propo
 #### [Intermediation Variety][IV] 
 with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan], 2017 (revise and resubmit at the **JF**)
 
-Non-depository financial intermediaries ("non-banks") have a higher cost of capital than depositories ("banks") do, because they do not benefit from government safety nets. How do they still compete with banks?  Non-banks use their high cost of capital as a commitment device not to fund traditional projects, inducing entrepreneurs to innovative efficiently.
+Non-depository financial intermediaries ("non-banks") have a higher cost of capital than depositories ("banks") do, e.g., because they do not benefit from a moneyness premium on deposits or government safety nets. How do they still compete with banks?  Non-banks use their high cost of capital as a commitment device not to fund traditional projects, inducing entrepreneurs to innovative efficiently.
 
 
 #### [Conflicting Priorities: A Theory of Covenants and Collateral][Priorities] 
