@@ -80,7 +80,7 @@ Many debt claims, such as bonds, are resaleable, whereas others, such as repos, 
 
 #### [Deadlock on the Board][DL] 
 
-with [Nadya Malenko][nadya] and [Giorgia Piacentino][giorgia], 2018 (revise and resubmit at the **RFS**)
+with [Nadya Malenko][nadya] and [Giorgia Piacentino][giorgia], 2019 (revise and resubmit at the **RFS**, [CEPR DP12503][DLCEPR])
 
 Best Paper Award at the 2018 ASU Sonoran Winter Finance Conference
 
@@ -90,7 +90,7 @@ In a dynamic model of board decision making, directors strategically block propo
 
 
 #### [Intermediation Variety][IV] 
-with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan], 2019 (revise and resubmit at the **JF**)
+with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan], 2019 (revise and resubmit at the **JF**, [NBER WP 25946][IVNBER])
 
 Non-depository financial intermediaries ("non-banks") have a higher cost of capital than depositories ("banks") do, e.g., because they do not benefit from a moneyness premium on deposits or government safety nets. How do they still compete with banks?  Non-banks use their high cost of capital as a commitment device not to fund traditional projects, inducing entrepreneurs to innovative efficiently.
 
@@ -182,6 +182,8 @@ PAPERS
 
 [DL]:http://jrdonaldson.com/Papers/Donaldson-Malenko-Piacentino-Deadlock.pdf
 
+[DLCEPR]:https://cepr.org/active/publications/discussion_papers/dp.php?dpno=12503
+
 [N]:http://jrdonaldson.com/Papers/Donaldson-Piacentino-Netting.pdf
 
 [MR]:http://jrdonaldson.com/Papers/Donaldson-Piacentino-Money_Runs.pdf
@@ -199,6 +201,9 @@ PAPERS
 [pp]: http://jrdonaldson.com/Papers/Donaldson-Procyclical_Promises.pdf
 
 [IV]: http://jrdonaldson.com/Papers/Donaldson-Piacentino-Thakor-Intermediation_Variety.pdf
+
+[IVNBER]: https://www.nber.org/papers/w25946
+
 
 [n]:http://jrdonaldson.com/Papers/Donaldson-Micheler-Resaleable_Debt.pdf
 
