@@ -100,6 +100,15 @@ with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia], 2018
 
 We develop a model in which the absolute priority of secured debt leads to conflicts among creditors, but can be optimal nonetheless.  The option to use collateral to dilute unsecured debt, even in  violation of covenants, loosens financial constraints that could be inefficiently tight.  But covenants embed an acceleration option that prevents these constraints from becoming inefficiently loose.
 
+#### [Money Runs][MR] 
+
+with [Giorgia Piacentino][giorgia], 2019
+
+Bank debt is both a financial security used to raise funds and a kind of money used to facilitate trade. We develop a model based on this dual role of bank debt. It provides a new rationale for why banks do many of the things they do, including why they choose to issue demandable debt, and hence why they are fragile. It gives new perspectives on a number of policies, notably suspension of convertibility and narrow banking. 
+
+
+
+
 
  
 #### [The Opportunity Cost of Collateral][OC] 
@@ -110,12 +119,6 @@ with [Mina Lee][mina] and [Giorgia Piacentino][giorgia], 2018
 Interbank debt is money-like, but not a perfect substitute for cash: it can be hard to convert to cash to fund new investments. Hence, interbank lending comes with an opportunity cost that generates positive spreads even absent any credit risk. These spreads enter banks' collateral constraints, generating a feedback between the opportunity cost in the credit market and the price of collateral in the asset market. This results in instability in the form of multiple equilibria, casting light on repo runs. We provide a new rational for counter-cyclical capital regulation.
 
  
-#### [Money Runs][MR] 
-
-with [Giorgia Piacentino][giorgia], 2018
-
-We present a banking model in which bank debt is traded over the counter like banknotes were in the nineteenth century and repos are today. This focus on bank money creation reveals a new rationale for demandable debt and a new type of bank run, or "money run."
-
 
 
 
