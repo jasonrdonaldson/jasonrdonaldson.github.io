@@ -96,7 +96,7 @@ Non-depository financial intermediaries ("non-banks") have a higher cost of capi
 
 
 #### [Conflicting Priorities: A Theory of Covenants and Collateral][Priorities] 
-with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia], 2018
+with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia], 2019
 
 We develop a model in which the absolute priority of secured debt leads to conflicts among creditors, but can be optimal nonetheless.  The option to use collateral to dilute unsecured debt, even in  violation of covenants, loosens financial constraints that could be inefficiently tight.  But covenants embed an acceleration option that prevents these constraints from becoming inefficiently loose.
 
