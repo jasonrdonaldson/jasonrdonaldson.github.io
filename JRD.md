@@ -102,7 +102,7 @@ We develop a model in which the absolute priority of secured debt leads to confl
 
 #### [Money Runs][MR] 
 
-with [Giorgia Piacentino][giorgia], 2019
+with [Giorgia Piacentino][giorgia], 2020
 
 Bank debt is both a financial security used to raise funds and a kind of money used to facilitate trade. We develop a model based on this dual role of bank debt. It provides a new rationale for why banks do many of the things they do, including why they choose to issue demandable debt, and hence why they are fragile. It gives new perspectives on a number of policies, notably suspension of convertibility and narrow banking. 
 
