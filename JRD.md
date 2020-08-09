@@ -21,7 +21,7 @@ src="//c.statcounter.com/8924220/0/22994e8d/1/" alt="web
 analytics"></a></div></noscript>
 <!-- End of StatCounter Code for Default Guide -->
 # Jason Roderick Donaldson #
-#### Assistant Professor of Finance, Washington University in St Louis
+#### Washington University in St Louis
 ####CEPR Research Affiliate 
 j.r.donaldson@wustl.edu
 
@@ -40,8 +40,27 @@ and here
  
  
  
+
+#### [Intermediation Variety][IV] 
+with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan], 2019 (forthcoming at the **JF** [NBER WP 25946][IVNBER])
+
+Non-depository financial intermediaries ("non-banks") have a higher cost of capital than depositories ("banks") do, e.g., because they do not benefit from a moneyness premium on deposits or government safety nets. How do they still compete with banks?  Non-banks use their high cost of capital as a commitment device not to fund traditional projects, inducing entrepreneurs to innovative efficiently.
+
+
+
+
+ #### [Deadlock on the Board][DL] 
+
+with [Nadya Malenko][nadya] and [Giorgia Piacentino][giorgia], 2019 (forthcoming at the **RFS** [CEPR DP12503][DLCEPR])
+
+Best Paper Award at the 2018 ASU Sonoran Winter Finance Conference
+
+In a dynamic model of board decision making, directors strategically block proposals that benefit other directors. Such deadlock on the board explains CEO entrenchment and strategic inertia. We study how board composition affects deadlock, and find, for example, that board diversity can exacerbate it.
+
+
+
 #### [The Paradox of Pledgeability][Paradox] 
-with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia], 2018 (accepted at the **JFE**)
+with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia], 2018 (in the **JFE**  137)
 
 We develop a model in which collateral serves to protect creditors from the claims of competing creditors. We find that collateralized borrowing has a cost: it encumbers assets, constraining future borrowing and investment---there is a collateral overhang.
 
@@ -69,6 +88,7 @@ with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan], 2018 (in the  **JF
 
 We develop a theory of banking that explains why banks started out as commodities warehouses. Our theory helps to explain how modern banks create funding liquidity and why they combine warehousing (custody and deposit-taking), lending, and private money creation within the same institutions.
 
+\input{JRD.md}
 
 
 ####[Resaleable Debt and Systemic Risk][n] 
@@ -78,34 +98,21 @@ with [Eva Micheler][eva], 2018 (in the **JFE** 127)
 Many debt claims, such as bonds, are resaleable, whereas others, such as repos, are not. We develop a model of bank lending in which debt claims are heterogenous in their resaleability. We find that decreasing credit market frictions leads to an increase in borrowing via non-resaleable debt.  This causes credit chains to form, creating systemic risk.
 
 
-#### [Deadlock on the Board][DL] 
+#### [Money Runs][MR] 
 
-with [Nadya Malenko][nadya] and [Giorgia Piacentino][giorgia], 2019 (revise and resubmit at the **RFS**, [CEPR DP12503][DLCEPR])
+with [Giorgia Piacentino][giorgia] (R&R at the **JME**) 
 
-Best Paper Award at the 2018 ASU Sonoran Winter Finance Conference
-
-In a dynamic model of board decision making, directors strategically block proposals that benefit other directors. Such deadlock on the board explains CEO entrenchment and strategic inertia. We study how board composition affects deadlock, and find, for example, that board diversity can exacerbate it.
+Bank debt is both a financial security used to raise funds and a kind of money used to facilitate trade. We develop a model based on this dual role of bank debt. It provides a new rationale for why banks do many of the things they do, including why they choose to issue demandable debt, and hence why they are fragile. It gives new perspectives on a number of policies, notably suspension of convertibility and narrow banking. 
 
 
 
 
-#### [Intermediation Variety][IV] 
-with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan], 2019 (revise and resubmit at the **JF**, [NBER WP 25946][IVNBER])
-
-Non-depository financial intermediaries ("non-banks") have a higher cost of capital than depositories ("banks") do, e.g., because they do not benefit from a moneyness premium on deposits or government safety nets. How do they still compete with banks?  Non-banks use their high cost of capital as a commitment device not to fund traditional projects, inducing entrepreneurs to innovative efficiently.
 
 
 #### [Conflicting Priorities: A Theory of Covenants and Collateral][Priorities] 
 with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia], 2019
 
 We develop a model in which the absolute priority of secured debt leads to conflicts among creditors, but can be optimal nonetheless.  The option to use collateral to dilute unsecured debt, even in  violation of covenants, loosens financial constraints that could be inefficiently tight.  But covenants embed an acceleration option that prevents these constraints from becoming inefficiently loose.
-
-#### [Money Runs][MR] 
-
-with [Giorgia Piacentino][giorgia], 2020
-
-Bank debt is both a financial security used to raise funds and a kind of money used to facilitate trade. We develop a model based on this dual role of bank debt. It provides a new rationale for why banks do many of the things they do, including why they choose to issue demandable debt, and hence why they are fragile. It gives new perspectives on a number of policies, notably suspension of convertibility and narrow banking. 
-
 
 
 
@@ -159,14 +166,6 @@ Banks hold gross debts without netting them out.  Why?  These gross debts implem
 #### [Finance Theory Group][ftg]
 
 #### [Labor and Finance Group][lfg]
-
-
-
-## Other Stuff ##
-#### [Heroes][h] ###
-
-#### [Recommended Reading][rr]
-
 
 
 
