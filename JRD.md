@@ -51,7 +51,7 @@ Non-depository financial intermediaries ("non-banks") have a higher cost of capi
 
  #### [Deadlock on the Board][DL] 
 
-with [Nadya Malenko][nadya] and [Giorgia Piacentino][giorgia], 2019 (forthcoming at the **RFS** [CEPR DP12503][DLCEPR])
+with [Nadya Malenko][nadya] and [Giorgia Piacentino][giorgia], 2020 (forthcoming at the **RFS** [CEPR DP12503][DLCEPR])
 
 Best Paper Award at the 2018 ASU Sonoran Winter Finance Conference
 
@@ -100,7 +100,7 @@ Many debt claims, such as bonds, are resaleable, whereas others, such as repos, 
 
 #### [Money Runs][MR] 
 
-with [Giorgia Piacentino][giorgia] (R&R at the **JME**) 
+with [Giorgia Piacentino][giorgia], 2020 (R&R at the **JME**) 
 
 Bank debt is both a financial security used to raise funds and a kind of money used to facilitate trade. We develop a model based on this dual role of bank debt. It provides a new rationale for why banks do many of the things they do, including why they choose to issue demandable debt, and hence why they are fragile. It gives new perspectives on a number of policies, notably suspension of convertibility and narrow banking. 
 
@@ -110,7 +110,7 @@ Bank debt is both a financial security used to raise funds and a kind of money u
 
 
 #### [Conflicting Priorities: A Theory of Covenants and Collateral][Priorities] 
-with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia], 2019
+with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia], 2020
 
 We develop a model in which the absolute priority of secured debt leads to conflicts among creditors, but can be optimal nonetheless.  The option to use collateral to dilute unsecured debt, even in  violation of covenants, loosens financial constraints that could be inefficiently tight.  But covenants embed an acceleration option that prevents these constraints from becoming inefficiently loose.
 
