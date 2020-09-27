@@ -51,7 +51,7 @@ Non-depository financial intermediaries ("non-banks") have a higher cost of capi
 
  #### [Deadlock on the Board][DL] 
 
-with [Nadya Malenko][nadya] and [Giorgia Piacentino][giorgia], 2020 (forthcoming at the **RFS** [CEPR DP12503][DLCEPR])
+with [Nadya Malenko][nadya] and [Giorgia Piacentino][giorgia], 2020 ( in the **RFS** 33 [CEPR DP12503][DLCEPR])
 
 Best Paper Award at the 2018 ASU Sonoran Winter Finance Conference
 
