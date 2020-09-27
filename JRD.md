@@ -88,7 +88,6 @@ with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan], 2018 (in the  **JF
 
 We develop a theory of banking that explains why banks started out as commodities warehouses. Our theory helps to explain how modern banks create funding liquidity and why they combine warehousing (custody and deposit-taking), lending, and private money creation within the same institutions.
 
-\input{JRD.md}
 
 
 ####[Resaleable Debt and Systemic Risk][n] 
@@ -105,6 +104,10 @@ with [Giorgia Piacentino][giorgia], 2020 (R&R at the **JME**)
 Bank debt is both a financial security used to raise funds and a kind of money used to facilitate trade. We develop a model based on this dual role of bank debt. It provides a new rationale for why banks do many of the things they do, including why they choose to issue demandable debt, and hence why they are fragile. It gives new perspectives on a number of policies, notably suspension of convertibility and narrow banking. 
 
 
+#### [Restructuring vs. Bankruptcy][Restructuring] 
+with  [Ed Morrison][ed], [Giorgia Piacentino][giorgia], and [Xiaobo Yu][xiaobo], 2020
+
+How can firms resolve financial distress? Bankruptcy is one way, albeit a costly one. A less costly way is out-of-court restructuring. But hold-out problems can make it infeasible. Do policies that encourage bankruptcy filings, by, e.g., decreasing costs, crowd out restructuring? We find that the answer is no. We study how regulatory interventions can further increase welfare.
 
 
 
@@ -213,11 +216,14 @@ PAPERS
 
 [OC]: http://jrdonaldson.com/Papers/Donaldson-Lee-Piacentino-Opportunity_Cost.pdf
 
+[Restructuring]: http://jrdonaldson.com/Papers/Donaldson-Morrison-Piacentino-Yu-Restructuring.pdf
+
 
 <!---
 PEOPLE
 -->
 
+[ed]: https://www.law.columbia.edu/faculty/edward-r-morrison
 [giorgia]: http://giorgiapiacentino.com/
 [anjan]: http://apps.olin.wustl.edu/faculty/Thakor/index.htm
 [eva]: http://www.lse.ac.uk/collections/law/staff/eva-micheler.htm
@@ -225,6 +231,9 @@ PEOPLE
 [denis]: http://denis.gromb.pagesperso-orange.fr
 [nadya]: https://www2.bc.edu/nadya-malenko/
 [mina]: https://sites.google.com/view/minalee/home
+[xiaobo]: https://www8.gsb.columbia.edu/cbs-directory/phd/XYu23
+
+
 <!---
 AFFILIATIONS 
 -->
