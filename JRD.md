@@ -97,6 +97,17 @@ with [Eva Micheler][eva], 2018 (in the **JFE** 127)
 Many debt claims, such as bonds, are resaleable, whereas others, such as repos, are not. We develop a model of bank lending in which debt claims are heterogenous in their resaleability. We find that decreasing credit market frictions leads to an increase in borrowing via non-resaleable debt.  This causes credit chains to form, creating systemic risk.
 
 
+
+
+
+#### [Conflicting Priorities: A Theory of Covenants and Collateral][Priorities] 
+with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia], 2020 (R&R at the **JF**) 
+
+We develop a model in which the absolute priority of secured debt leads to conflicts among creditors, but can be optimal nonetheless.  The option to use collateral to dilute unsecured debt, even in  violation of covenants, loosens financial constraints that could be inefficiently tight.  But covenants embed an acceleration option that prevents these constraints from becoming inefficiently loose.
+
+
+
+
 #### [Money Runs][MR] 
 
 with [Giorgia Piacentino][giorgia], 2020 (R&R at the **JME**) 
@@ -108,14 +119,6 @@ Bank debt is both a financial security used to raise funds and a kind of money u
 with  [Ed Morrison][ed], [Giorgia Piacentino][giorgia], and [Xiaobo Yu][xiaobo], 2020
 
 How can firms resolve financial distress? Bankruptcy is one way, albeit a costly one. A less costly way is out-of-court restructuring. But hold-out problems can make it infeasible. Do policies that encourage bankruptcy filings, by, e.g., decreasing costs, crowd out restructuring? We find that the answer is no. We study how regulatory interventions can further increase welfare.
-
-
-
-
-#### [Conflicting Priorities: A Theory of Covenants and Collateral][Priorities] 
-with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia], 2020
-
-We develop a model in which the absolute priority of secured debt leads to conflicts among creditors, but can be optimal nonetheless.  The option to use collateral to dilute unsecured debt, even in  violation of covenants, loosens financial constraints that could be inefficiently tight.  But covenants embed an acceleration option that prevents these constraints from becoming inefficiently loose.
 
 
 
@@ -228,7 +231,7 @@ PEOPLE
 [anjan]: http://apps.olin.wustl.edu/faculty/Thakor/index.htm
 [eva]: http://www.lse.ac.uk/collections/law/staff/eva-micheler.htm
 [JP]: http://www2.lse.ac.uk/finance/people/profiles/jean-PierreZigrand.aspx
-[denis]: http://denis.gromb.pagesperso-orange.fr
+[denis]: https://sites.google.com/hec.fr/denis-gromb/home
 [nadya]: https://www2.bc.edu/nadya-malenko/
 [mina]: https://sites.google.com/view/minalee/home
 [xiaobo]: https://www8.gsb.columbia.edu/cbs-directory/phd/XYu23
