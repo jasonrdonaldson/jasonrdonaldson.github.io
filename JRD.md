@@ -115,6 +115,17 @@ with [Giorgia Piacentino][giorgia], 2020 (R&R at the **JME**)
 Bank debt is both a financial security used to raise funds and a kind of money used to facilitate trade. We develop a model based on this dual role of bank debt. It provides a new rationale for why banks do many of the things they do, including why they choose to issue demandable debt, and hence why they are fragile. It gives new perspectives on a number of policies, notably suspension of convertibility and narrow banking. 
 
 
+
+#### [Sovereign Bond Restructuring: Commitment vs. Flexibility][Sovereigns] 
+with  [Lukas Kremens][lukas] and [Giorgia Piacentino][giorgia], 2021
+
+Sovereigns in distress often engage in bond restructuring. 
+Does the ability to restructure one class of bonds benefit that class? Does it benefit other classes too? Evidence from a landmark UK High Court ruling suggests the answers: yes and yes.
+
+
+
+
+
 #### [Restructuring vs. Bankruptcy][Restructuring] 
 with  [Ed Morrison][ed], [Giorgia Piacentino][giorgia], and [Xiaobo Yu][xiaobo], 2020
 
@@ -132,10 +143,6 @@ with [Mina Lee][mina] and [Giorgia Piacentino][giorgia], 2018
 Interbank debt is money-like, but not a perfect substitute for cash: it can be hard to convert to cash to fund new investments. Hence, interbank lending comes with an opportunity cost that generates positive spreads even absent any credit risk. These spreads enter banks' collateral constraints, generating a feedback between the opportunity cost in the credit market and the price of collateral in the asset market. This results in instability in the form of multiple equilibria, casting light on repo runs. We provide a new rational for counter-cyclical capital regulation.
 
  
-
-
-
-
 
 
 
@@ -186,7 +193,7 @@ Banks hold gross debts without netting them out.  Why?  These gross debts implem
 PAPERS
 -->
 
-
+[Sovereigns]:http://jrdonaldson.com/Papers/Donaldson-Kremens-Piacentino-Sovereign_Bond_Restructuring.pdf
 
 [DL]:http://jrdonaldson.com/Papers/Donaldson-Malenko-Piacentino-Deadlock.pdf
 
@@ -226,6 +233,7 @@ PAPERS
 PEOPLE
 -->
 
+[lukas]:https://sites.google.com/site/lukaskremensweb/
 [ed]: https://www.law.columbia.edu/faculty/edward-r-morrison
 [giorgia]: http://giorgiapiacentino.com/
 [anjan]: http://apps.olin.wustl.edu/faculty/Thakor/index.htm
