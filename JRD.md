@@ -119,8 +119,7 @@ Bank debt is both a financial security used to raise funds and a kind of money u
 #### [Sovereign Bond Restructuring: Commitment vs. Flexibility][Sovereigns] 
 with  [Lukas Kremens][lukas] and [Giorgia Piacentino][giorgia], 2021
 
-Sovereigns in distress often engage in bond restructuring. 
-Does the ability to restructure one class of bonds benefit that class? Does it benefit other classes too? Evidence from a landmark UK High Court ruling suggests the answers: yes and yes.
+Sovereigns in distress often engage in bond restructuring. Does the ability to restructure one class of bonds benefit that class? Does it benefit other classes too? Evidence from a landmark UK High Court ruling suggests the answers: yes and yes.
 
 
 
