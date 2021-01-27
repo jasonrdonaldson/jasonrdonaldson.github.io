@@ -239,7 +239,7 @@ PEOPLE
 [eva]: http://www.lse.ac.uk/collections/law/staff/eva-micheler.htm
 [JP]: http://www2.lse.ac.uk/finance/people/profiles/jean-PierreZigrand.aspx
 [denis]: https://sites.google.com/hec.fr/denis-gromb/home
-[nadya]: https://www2.bc.edu/nadya-malenko/
+[nadya]: https://www.nadyamalenko.com
 [mina]: https://sites.google.com/view/minalee/home
 [xiaobo]: https://www8.gsb.columbia.edu/cbs-directory/phd/XYu23
 
