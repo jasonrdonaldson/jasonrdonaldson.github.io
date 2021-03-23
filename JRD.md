@@ -41,6 +41,15 @@ and here
  
  
 
+#### [Money Runs][MR] 
+
+with [Giorgia Piacentino][giorgia], 2020 (accepted with revisions at the **JME**) 
+
+Bank debt is both a financial security used to raise funds and a kind of money used to facilitate trade. We develop a model based on this dual role of bank debt. It provides a new rationale for why banks do many of the things they do, including why they choose to issue demandable debt, and hence why they are fragile. It gives new perspectives on a number of policies, notably suspension of convertibility and narrow banking. 
+
+
+
+
 #### [Intermediation Variety][IV] 
 with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan], 2019 (forthcoming at the **JF** [NBER WP 25946][IVNBER])
 
@@ -63,7 +72,6 @@ In a dynamic model of board decision making, directors strategically block propo
 with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia], 2018 (in the **JFE**  137)
 
 We develop a model in which collateral serves to protect creditors from the claims of competing creditors. We find that collateralized borrowing has a cost: it encumbers assets, constraining future borrowing and investment---there is a collateral overhang.
-
 
 
 
@@ -105,14 +113,6 @@ with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia], 2020 (R&R at the 
 
 We develop a model in which the absolute priority of secured debt leads to conflicts among creditors, but can be optimal nonetheless.  The option to use collateral to dilute unsecured debt, even in  violation of covenants, loosens financial constraints that could be inefficiently tight.  But covenants embed an acceleration option that prevents these constraints from becoming inefficiently loose.
 
-
-
-
-#### [Money Runs][MR] 
-
-with [Giorgia Piacentino][giorgia], 2020 (R&R at the **JME**) 
-
-Bank debt is both a financial security used to raise funds and a kind of money used to facilitate trade. We develop a model based on this dual role of bank debt. It provides a new rationale for why banks do many of the things they do, including why they choose to issue demandable debt, and hence why they are fragile. It gives new perspectives on a number of policies, notably suspension of convertibility and narrow banking. 
 
 
 
