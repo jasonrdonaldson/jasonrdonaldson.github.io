@@ -173,11 +173,15 @@ Banks hold gross debts without netting them out.  Why?  These gross debts implem
 
 #### [CEPR][cepr]###
 
-#### [Systemic Risk Centre][src] ###
-
 #### [Finance Theory Group][ftg]
 
+#### [Macro Finance Society][mfs]###
+
 #### [Labor and Finance Group][lfg]
+
+#### [Systemic Risk Centre][src] ###
+
+
 
 
 
@@ -252,6 +256,7 @@ AFFILIATIONS
 [src]: http://www.systemicrisk.ac.uk
 [ftg]: http://www.financetheory.org
 [lfg]: https://sites.google.com/site/laborandfinancegroup/
+[mfs]: https://macrofinancesociety.org
 
 
 <!---
