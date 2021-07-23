@@ -114,6 +114,10 @@ with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia], 2020 (R&R at the 
 We develop a model in which the absolute priority of secured debt leads to conflicts among creditors, but can be optimal nonetheless.  The option to use collateral to dilute unsecured debt, even in  violation of covenants, loosens financial constraints that could be inefficiently tight.  But covenants embed an acceleration option that prevents these constraints from becoming inefficiently loose.
 
 
+#### [Collateral Reallocation][Reallocation] 
+with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia], 2021 
+
+Assets pledged as collateral for secured debt cannot be sold unless the debt is paid or otherwise renegotiated. We develop a model of this role of collateralization. We find that debt market frictions (alone) can cause the asset market to fail, causing misallocation.
 
 
 #### [Sovereign Bond Restructuring: Commitment vs. Flexibility][Sovereigns] 
@@ -184,11 +188,6 @@ Banks hold gross debts without netting them out.  Why?  These gross debts implem
 
 
 
-
-
-
-
-
 [picture]: img/jrd-picture.jpg
 
 
@@ -207,6 +206,8 @@ PAPERS
 [MR]:http://jrdonaldson.com/Papers/Donaldson-Piacentino-Money_Runs.pdf
 
 [Priorities]: http://jrdonaldson.com/Papers/Donaldson-Gromb-Piacentino-Priorities.pdf
+
+[Reallocation]: http://jrdonaldson.com/Papers/Donaldson-Gromb-Piacentino-Collateral_Reallocation.pdf
 
 [WB]:http://jrdonaldson.com/Papers/Donaldson-Piacentino-Thakor-Warehouse_Banking.pdf
 
