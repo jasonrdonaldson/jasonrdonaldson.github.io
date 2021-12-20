@@ -43,7 +43,7 @@ and here
 
 #### [Money Runs][MR] 
 
-with [Giorgia Piacentino][giorgia], 2020 (accepted with revisions at the **JME**) 
+with [Giorgia Piacentino][giorgia], 2020 (forthcoming at the **JME**) 
 
 Bank debt is both a financial security used to raise funds and a kind of money used to facilitate trade. We develop a model based on this dual role of bank debt. It provides a new rationale for why banks do many of the things they do, including why they choose to issue demandable debt, and hence why they are fragile. It gives new perspectives on a number of policies, notably suspension of convertibility and narrow banking. 
 
@@ -51,7 +51,7 @@ Bank debt is both a financial security used to raise funds and a kind of money u
 
 
 #### [Intermediation Variety][IV] 
-with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan], 2019 (forthcoming at the **JF** [NBER WP 25946][IVNBER])
+with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan], 2019 (in the **JF** 76 [NBER WP 25946][IVNBER])
 
 Non-depository financial intermediaries ("non-banks") have a higher cost of capital than depositories ("banks") do, e.g., because they do not benefit from a moneyness premium on deposits or government safety nets. How do they still compete with banks?  Non-banks use their high cost of capital as a commitment device not to fund traditional projects, inducing entrepreneurs to innovative efficiently.
 
@@ -123,7 +123,7 @@ Assets pledged as collateral for secured debt cannot be sold unless the debt is 
 #### [Sovereign Bond Restructuring: Commitment vs. Flexibility][Sovereigns] 
 with  [Lukas Kremens][lukas] and [Giorgia Piacentino][giorgia], 2021
 
-Sovereigns in distress often engage in bond restructuring. Does the ability to restructure one class of bonds benefit that class? Does it benefit other classes too? Evidence from a landmark UK High Court ruling suggests the answers: yes and yes.
+Sovereigns in distress often engage in bond restructuring. Does committing not to restructure one class of bonds benefit that class? Does it spillover to benefit other classes too? Evidence from natural experiments suggests the answers: yes and yes.
 
 
 
