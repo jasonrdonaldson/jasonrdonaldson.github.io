@@ -51,7 +51,7 @@ Bank debt is both a financial security used to raise funds and a kind of money u
 
 
 #### [Intermediation Variety][IV] 
-with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan], 2019 (in the **JF** 76 [NBER WP 25946][IVNBER])
+with [Giorgia Piacentino][giorgia] and [Anjan Thakor][anjan], 2021 (in the **JF** 76 [NBER WP 25946][IVNBER])
 
 Non-depository financial intermediaries ("non-banks") have a higher cost of capital than depositories ("banks") do, e.g., because they do not benefit from a moneyness premium on deposits or government safety nets. How do they still compete with banks?  Non-banks use their high cost of capital as a commitment device not to fund traditional projects, inducing entrepreneurs to innovative efficiently.
 
@@ -69,7 +69,7 @@ In a dynamic model of board decision making, directors strategically block propo
 
 
 #### [The Paradox of Pledgeability][Paradox] 
-with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia], 2018 (in the **JFE**  137)
+with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia], 2020 (in the **JFE**  137)
 
 We develop a model in which collateral serves to protect creditors from the claims of competing creditors. We find that collateralized borrowing has a cost: it encumbers assets, constraining future borrowing and investment---there is a collateral overhang.
 
