@@ -43,7 +43,7 @@ and here
 
 #### [Money Runs][MR] 
 
-with [Giorgia Piacentino][giorgia], 2020 (forthcoming at the **JME**) 
+with [Giorgia Piacentino][giorgia], 2021 (forthcoming at the **JME**) 
 
 Bank debt is both a financial security used to raise funds and a kind of money used to facilitate trade. We develop a model based on this dual role of bank debt. It provides a new rationale for why banks do many of the things they do, including why they choose to issue demandable debt, and hence why they are fragile. It gives new perspectives on a number of policies, notably suspension of convertibility and narrow banking. 
 
@@ -130,7 +130,7 @@ Sovereigns in distress often engage in bond restructuring. Does committing not t
 
 
 #### [Restructuring vs. Bankruptcy][Restructuring] 
-with  [Ed Morrison][ed], [Giorgia Piacentino][giorgia], and [Xiaobo Yu][xiaobo], 2020
+with  [Ed Morrison][ed], [Giorgia Piacentino][giorgia], and [Xiaobo Yu][xiaobo], 2021
 
 How can firms resolve financial distress? Bankruptcy is one way, albeit a costly one. A less costly way is out-of-court restructuring. But hold-out problems can make it infeasible. Do policies that encourage bankruptcy filings, by, e.g., decreasing costs, crowd out restructuring? We find that the answer is no. We study how regulatory interventions can further increase welfare.
 
