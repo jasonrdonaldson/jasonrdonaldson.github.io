@@ -168,7 +168,7 @@ I explore how the cyclicality of firms' output affects their debt capacity. I po
 
 #### [Netting][N] 
 
-with [Giorgia Piacentino][giorgia], 2018
+with [Giorgia Piacentino][giorgia], 2018 (largely superseded by Debt Maturity in Financial Networks, above)
 
 Banks hold gross debts without netting them out.  Why?  These gross debts implement valuable contingent transfers via the option to dilute.
 
