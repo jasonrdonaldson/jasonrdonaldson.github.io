@@ -114,18 +114,18 @@ with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia], 2020 (R&R at the 
 We develop a model in which the absolute priority of secured debt leads to conflicts among creditors, but can be optimal nonetheless.  The option to use collateral to dilute unsecured debt, even in  violation of covenants, loosens financial constraints that could be inefficiently tight.  But covenants embed an acceleration option that prevents these constraints from becoming inefficiently loose.
 
 
-#### [Collateral Reallocation][Reallocation] 
-with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia], 2021 
 
-Assets pledged as collateral for secured debt cannot be sold unless the debt is paid or otherwise renegotiated. We develop a model of this role of collateralization. We find that debt market frictions (alone) can cause the asset market to fail, causing misallocation.
+#### [Debt Maturity in Financial Networks][Networks] 
+with [Giorgia Piacentino][giorgia] and [Xiaobo Yu][xiaobo] 2022
+
+
+We ask how liquidity risk propagates in interbank networks. We show that the answer turns on the maturity of interbank debt. Indebtedness and connectedness are sources of fragility if debt is short term, but of stability if it is long term. The right network of long-term debts implements the optimal allocation of liquidity.
 
 
 #### [Sovereign Bond Restructuring: Commitment vs. Flexibility][Sovereigns] 
-with  [Lukas Kremens][lukas] and [Giorgia Piacentino][giorgia], 2021
+with  [Lukas Kremens][lukas] and [Giorgia Piacentino][giorgia], 2022
 
 Sovereigns in distress often engage in bond restructuring. Does committing not to restructure one class of bonds benefit that class? Does it spillover to benefit other classes too? Evidence from natural experiments suggests the answers: yes and yes.
-
-
 
 
 
@@ -133,6 +133,16 @@ Sovereigns in distress often engage in bond restructuring. Does committing not t
 with  [Ed Morrison][ed], [Giorgia Piacentino][giorgia], and [Xiaobo Yu][xiaobo], 2021
 
 How can firms resolve financial distress? Bankruptcy is one way, albeit a costly one. A less costly way is out-of-court restructuring. But hold-out problems can make it infeasible. Do policies that encourage bankruptcy filings, by, e.g., decreasing costs, crowd out restructuring? We find that the answer is no. We study how regulatory interventions can further increase welfare.
+
+
+
+
+
+#### [Collateral Reallocation][Reallocation] 
+with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia], 2021 
+
+Assets pledged as collateral for secured debt cannot be sold unless the debt is paid or otherwise renegotiated. We develop a model of this role of collateralization. We find that debt market frictions (alone) can cause the asset market to fail, causing misallocation.
+
 
 
 
@@ -194,6 +204,8 @@ Banks hold gross debts without netting them out.  Why?  These gross debts implem
 <!---
 PAPERS
 -->
+
+[Networks]:http://jrdonaldson.com/Papers/Donaldson-Piacentino-Yu-Networks.pdf
 
 [Sovereigns]:http://jrdonaldson.com/Papers/Donaldson-Kremens-Piacentino-Sovereign_Bond_Restructuring.pdf
 
