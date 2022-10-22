@@ -261,7 +261,7 @@ PEOPLE
 [denis]: https://sites.google.com/hec.fr/denis-gromb/home
 [nadya]: https://www.nadyamalenko.com
 [mina]: https://sites.google.com/view/minalee/home
-[xiaobo]: https://www8.gsb.columbia.edu/cbs-directory/phd/XYu23
+[xiaobo]: https://academics.gsb.columbia.edu/node/1431
 
 
 <!---
