@@ -21,9 +21,11 @@ src="//c.statcounter.com/8924220/0/22994e8d/1/" alt="web
 analytics"></a></div></noscript>
 <!-- End of StatCounter Code for Default Guide -->
 # Jason Roderick Donaldson #
-#### Washington University in St Louis
-####CEPR Research Affiliate 
-j.r.donaldson@wustl.edu
+<!----
+### WashU and USC 
+###CEPR Research Affiliate 
+ --->
+jasonrdonaldson@gmail.com
 
 ![][picture]
 
@@ -107,6 +109,18 @@ Many debt claims, such as bonds, are resaleable, whereas others, such as repos, 
 
 
 
+#### [Restructuring vs. Bankruptcy][Restructuring] 
+with  [Ed Morrison][ed], [Giorgia Piacentino][giorgia], and [Xiaobo Yu][xiaobo], 2022 (R&R at the **JF**) 
+
+How can firms resolve financial distress? Bankruptcy is one way, albeit a costly one. A less costly way is out-of-court restructuring. But hold-out problems can make it infeasible. Do policies that encourage bankruptcy filings, by, e.g., decreasing costs, crowd out restructuring? We find that the answer is no. We study how regulatory interventions can further increase welfare.
+
+
+#### [Systemic Risk in Financial Networks Revisited: The Role of Maturity][Networks] 
+with [Giorgia Piacentino][giorgia] and [Xiaobo Yu][xiaobo], 2022 (R&R at the **JF**) 
+
+
+We ask how liquidity risk propagates in interbank networks. We show that the answer turns on the maturity of interbank debt. Indebtedness and connectedness are sources of fragility if debt is short term, but of stability if it is long term. The right network of long-term debts implements the optimal allocation of liquidity.
+
 
 #### [Conflicting Priorities: A Theory of Covenants and Collateral][Priorities] 
 with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia], 2020 (R&R at the **JF**) 
@@ -115,11 +129,6 @@ We develop a model in which the absolute priority of secured debt leads to confl
 
 
 
-#### [Debt Maturity in Financial Networks][Networks] 
-with [Giorgia Piacentino][giorgia] and [Xiaobo Yu][xiaobo] 2022
-
-
-We ask how liquidity risk propagates in interbank networks. We show that the answer turns on the maturity of interbank debt. Indebtedness and connectedness are sources of fragility if debt is short term, but of stability if it is long term. The right network of long-term debts implements the optimal allocation of liquidity.
 
 
 #### [Sovereign Bond Restructuring: Commitment vs. Flexibility][Sovereigns] 
@@ -127,12 +136,6 @@ with  [Lukas Kremens][lukas] and [Giorgia Piacentino][giorgia], 2022
 
 Sovereigns in distress often engage in bond restructuring. Does committing not to restructure one class of bonds benefit that class? Does it spillover to benefit other classes too? Evidence from natural experiments suggests the answers: yes and yes.
 
-
-
-#### [Restructuring vs. Bankruptcy][Restructuring] 
-with  [Ed Morrison][ed], [Giorgia Piacentino][giorgia], and [Xiaobo Yu][xiaobo], 2021
-
-How can firms resolve financial distress? Bankruptcy is one way, albeit a costly one. A less costly way is out-of-court restructuring. But hold-out problems can make it infeasible. Do policies that encourage bankruptcy filings, by, e.g., decreasing costs, crowd out restructuring? We find that the answer is no. We study how regulatory interventions can further increase welfare.
 
 
 
@@ -168,7 +171,7 @@ I explore how the cyclicality of firms' output affects their debt capacity. I po
 
 #### [Netting][N] 
 
-with [Giorgia Piacentino][giorgia], 2018 (largely superseded by Debt Maturity in Financial Networks, above)
+with [Giorgia Piacentino][giorgia], 2018 (largely superseded by Systemic Risk in Financial Networks Revisited, above)
 
 Banks hold gross debts without netting them out.  Why?  These gross debts implement valuable contingent transfers via the option to dilute.
 
