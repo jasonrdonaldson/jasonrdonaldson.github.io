@@ -42,6 +42,15 @@ and here
  
  
  
+ 
+ #### [Conflicting Priorities: A Theory of Covenants and Collateral][Priorities] 
+with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia], 2020 (forthcoming at the **JF**) 
+
+We develop a model in which the absolute priority of secured debt leads to conflicts among creditors, but can be optimal nonetheless.  The option to use collateral to dilute unsecured debt, even in  violation of covenants, loosens financial constraints that could be inefficiently tight.  But covenants embed an acceleration option that prevents these constraints from becoming inefficiently loose.
+
+
+
+
 
 #### [Money Runs][MR] 
 
@@ -121,11 +130,6 @@ with [Giorgia Piacentino][giorgia] and [Xiaobo Yu][xiaobo], 2022 (R&R at the **J
 
 We ask how liquidity risk propagates in interbank networks. We show that the answer turns on the maturity of interbank debt. Indebtedness and connectedness are sources of fragility if debt is short term, but of stability if it is long term. The right network of long-term debts implements the optimal allocation of liquidity.
 
-
-#### [Conflicting Priorities: A Theory of Covenants and Collateral][Priorities] 
-with  [Denis Gromb][denis]  and [Giorgia Piacentino][giorgia], 2020 (R&R at the **JF**) 
-
-We develop a model in which the absolute priority of secured debt leads to conflicts among creditors, but can be optimal nonetheless.  The option to use collateral to dilute unsecured debt, even in  violation of covenants, loosens financial constraints that could be inefficiently tight.  But covenants embed an acceleration option that prevents these constraints from becoming inefficiently loose.
 
 
 
