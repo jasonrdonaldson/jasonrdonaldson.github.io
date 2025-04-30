@@ -1,196 +1,54 @@
-<!DOCTYPE html>  
-<html lang="US">
-<head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <title>JRD</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <style id="mkstylesheet">
-body{-webkit-font-smoothing:antialiased;font-family:"Helvetica Neue",Helvetica,Arial,Verdana,sans-serif;margin:30px 0 0;padding:0;background:#fff;color:#303030;font-size:14px;line-height:1.45}#wrapper{padding:20px}li{font-size:110%}li li{font-size:100%}li p{font-size:100%;margin:.5em 0}h1{color:#000}h2{color:#111}h3{color:#111}h4{color:#111}h5{color:#111}h6{color:#111;font-style:italic}p,td,div{color:#111;font-family:"Helvetica Neue",Helvetica,Arial,Verdana,sans-serif;word-wrap:break-word}a{color:#0d6ea1;text-decoration:none;-webkit-transition:color .2s ease-in-out;-moz-transition:color .2s ease-in-out;-o-transition:color .2s ease-in-out;-ms-transition:color .2s ease-in-out;transition:color .2s ease-in-out}a:hover{color:#3593d9}h1,h2,h3,h4,h5{margin:2.75rem 0 1rem;font-weight:600;line-height:1.15}h1{margin-top:0;font-size:3.052em}h2{font-size:2.441em}h3{font-size:1.953em}h4{font-size:1.563em}h5{font-size:1.25em}ul,ol,pre,table,blockquote{margin-top:.625em;margin-bottom:.625em}hr{border:1px solid;margin:-1px 0}ul ul,ol ol,ul ol,ol ul{margin-top:0;margin-bottom:0}b,strong,em,small,code{line-height:1}.footnote{color:#0d6ea1;font-size:.8em;vertical-align:super}abbr,acronym{border-bottom:1px dotted #aaa}#wrapper img{max-width:100%;height:auto}dd{font-size:1em;margin-bottom:1em}li>p:first-of-type{margin:0}li p+p{margin-top:16px}ul,ol{padding-left:2.5rem}#wrapper ol{list-style-position:outside}ul ul,ul ol{margin-bottom:.4em}caption,col,colgroup,table,tbody,td,tfoot,th,thead,tr{border-spacing:0}table{border:1px solid rgba(0,0,0,0.25);border-collapse:collapse;display:table;empty-cells:hide;margin:-1px 0 1.3125em;padding:0;table-layout:fixed}caption{display:table-caption;font-weight:700}col{display:table-column}colgroup{display:table-column-group}tbody{display:table-row-group}tfoot{display:table-footer-group}thead{display:table-header-group}td,th{display:table-cell}tr{display:table-row}table th,table td{font-size:1.1em;line-height:1.3;padding:.5em 1em 0}table thead{background:rgba(0,0,0,0.15);border:1px solid rgba(0,0,0,0.15);border-bottom:1px solid rgba(0,0,0,0.2)}table tbody{background:rgba(0,0,0,0.05)}table tfoot{background:rgba(0,0,0,0.15);border:1px solid rgba(0,0,0,0.15);border-top:1px solid rgba(0,0,0,0.2)}figure{display:inline-block;overflow:hidden;position:relative;margin:1em 0 2em}figcaption{font-style:italic;text-align:center;background:white;color:#666}.poetry pre{display:block;font-family:Georgia,Garamond,serif !important;font-size:110% !important;font-style:italic;line-height:1.6em;margin-left:1em}.poetry pre code{font-family:Georgia,Garamond,serif !important;word-break:break-all;word-break:break-word;-webkit-hyphens:auto;-moz-hyphens:auto;hyphens:auto;white-space:pre-wrap}blockquote p{font-size:110%;font-style:italic;line-height:1.6em}sup,sub,a.footnote{font-size:1.4ex;height:0;line-height:1;position:relative;vertical-align:super}sub{vertical-align:sub;top:-1px}p{font-size:1.1429em;line-height:1.3125em;margin:1.3125em 0}dt,th{font-weight:700}table tr:nth-child(odd),table th:nth-child(odd),table td:nth-child(odd){background:rgba(255,255,255,0.06)}table tr:nth-child(even),table td:nth-child(even){background:rgba(200,200,200,0.25)}@media print{img,table,figure{page-break-inside:avoid}#wrapper{background:#fff;color:#303030;padding:10px;position:relative;text-indent:0}}@media screen{.inverted{background:#252a2a}.inverted #wrapper{background:#252a2a;color:#eee}.inverted hr{border-color:#333f40 !important}.inverted p,.inverted td,.inverted li,.inverted h1,.inverted h2,.inverted h3,.inverted h4,.inverted h5,.inverted h6,.inverted th,.inverted .math,.inverted caption,.inverted dt,.inverted dd{color:#eee}.inverted pre{background:#ccc;color:#111}.inverted table{background:none}.inverted table tr:nth-child(odd),.inverted table td:nth-child(odd){background:none}.inverted a{color:#acd1d5}::selection{background:rgba(157,193,200,0.5)}h1::selection{background-color:rgba(45,156,208,0.3)}h2::selection{background-color:rgba(90,182,224,0.3)}h3::selection,h4::selection,h5::selection,h6::selection,li::selection,ol::selection{background-color:rgba(133,201,232,0.3)}code::selection{background-color:rgba(0,0,0,0.7);color:#eee}code span::selection{background-color:rgba(0,0,0,0.7) !important;color:#eee !important}a::selection{background-color:rgba(255,230,102,0.2)}.inverted a::selection{background-color:rgba(255,230,102,0.6)}td::selection,th::selection,caption::selection{background-color:rgba(180,237,95,0.5)}}.mkstyle--swiss #wrapper aside.blurb:before{margin-top:.7em}
-#mkreplaced-toc{list-style-position:inside;padding:0;margin:0 0 0 1rem;list-style-type:none}#mkreplaced-toc li::before{content:''}#mkreplaced-toc li{font-size:1rem;line-height:1.25;font-weight:normal}#mkreplaced-toc li ul{font-size:1.3rem;font-weight:300;padding:.5rem 0;margin:0 0 0 1rem}#mkreplaced-toc li.missing{list-style-type:none !important}#mkreplaced-toc.max-1 ul,#mkreplaced-toc.max1 ul{display:none}#mkreplaced-toc.max-2 ul ul,#mkreplaced-toc.max2 ul ul{display:none}#mkreplaced-toc.max-3 ul ul ul,#mkreplaced-toc.max3 ul ul ul{display:none}#mkreplaced-toc.max-4 ul ul ul ul,#mkreplaced-toc.max4 ul ul ul ul{display:none}#mkreplaced-toc.max-5 ul ul ul ul ul,#mkreplaced-toc.max5 ul ul ul ul ul{display:none}.mk-rtl{direction:rtl;text-align:right}body.mkkatex-number-equations{counter-reset:eqnum}body.mkkatex-number-equations .katex-display{position:relative}body.mkkatex-number-equations .katex-display::after{counter-increment:eqnum;content:"(" counter(eqnum) ")";position:absolute;left:0;top:25%}body.mkkatex-number-equations.mkkatex-number-equations-right .katex-display::after{right:0;left:auto}.mkprinting,.mkprinting #wrapper{height:auto;margin-bottom:0;padding-bottom:0}.hideProgress #generated-toc,.hideProgress #firstdiff,.hideProgress #toc-title,.hideProgress #mkdocumentprogress,.hideProgress #mkincludechart,.hideProgress #mkprogressbar1,.hideProgress #mkprogressbar2,.hideProgress b.bookmark,.hideProgress .mkscrollmeter,.hideProgress #alllinks,.hideProgress #criticnav,.hideProgress .popup,.hideProgress #progressindicator,.hideProgress #mkautoscroll,.mkprinting #generated-toc,.mkprinting #firstdiff,.mkprinting #toc-title,.mkprinting #mkdocumentprogress,.mkprinting #mkincludechart,.mkprinting #mkprogressbar1,.mkprinting #mkprogressbar2,.mkprinting b.bookmark,.mkprinting .mkscrollmeter,.mkprinting #alllinks,.mkprinting #criticnav,.mkprinting .popup,.mkprinting #progressindicator,.mkprinting #mkautoscroll{display:none !important}.hideProgress .mkstyledtag,.mkprinting .mkstyledtag{display:none}.mkcolor-grammar-error,.mkcolor-spell-error{background:none;border-bottom:none}.mkprinting.mkshowcomments .mkstyledtag{display:inline;background:#ccc;padding:3px 9px;border-radius:20px;font-size:1}@media print{body{background:white;line-height:1.4}html,body,#wrapper{-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;-webkit-perspective:none !important;-webkit-text-size-adjust:none;border:0;box-sizing:border-box;float:none;margin:0;max-width:100%;padding:0;margin-top:0;width:auto}.critic #wrapper mark.crit{background-color:#fffd38 !important;text-decoration:none;color:#000}h1,h2,h3,h4,h5,h6{page-break-after:avoid}p,h2,h3{orphans:3;widows:3}section{page-break-before:avoid}pre>code{white-space:pre;word-break:break-word}#generated-toc,#firstdiff,#toc-title,#mkdocumentprogress,#mkincludechart,#mkprogressbar1,#mkprogressbar2,.mkscrollmeter,#alllinks,.popup{display:none !important}.suppressprintlinks a{border-bottom:none !important;color:inherit !important;cursor:default !important;text-decoration:none !important}.hrefafterlinktext #wrapper a:link:after,.hrefafterlinktext #wrapper a:visited:after{content:" (" attr(href) ") ";font-size:90%;opacity:.9}.nocodebreak pre{page-break-inside:avoid}img,table,figure{page-break-inside:avoid}.breakfootnotes .footnotes{page-break-before:always}.breakfootnotes .footnotes hr{display:none}#mktoctitle{display:block}#print-title{border-bottom:solid 1px #666;display:block}#wrapper pre{white-space:pre;white-space:pre-wrap;word-wrap:break-word}#wrapper #generated-toc-clone,#wrapper #mkreplaced-toc{display:block}.task-list{padding-left:3.3rem}.mkstyle--ink .task-list,.mkstyle--swiss .task-list{padding-left:3.3rem !important}.mkstyle--upstandingcitizen .task-list,.mkstyle--github .task-list{padding-left:3.6rem !important}.mkstyle--manuscript .task-list{padding-left:2.4rem !important}.mkstyle--amblin .task-list{padding-left:2.1rem !important}.mkstyle--grump .task-list{padding-left:1rem !important}.mkstyle--grump .task-list .task-list-item-checkbox{left:0 !important}.task-list .task-list-item{list-style-type:none !important;left:auto}.task-list .task-list-item .task-list-item-checkbox{-webkit-appearance:none;position:relative;left:auto}.task-list .task-list-item .task-list-item-checkbox:before{border:solid 1px #aaa;border-radius:2px;color:white;content:' ';display:block;font-weight:bold;height:1em;left:-1rem;line-height:1;position:absolute;text-align:center;top:-.75em;width:1em}.task-list .gh-complete.task-list-item .task-list-item-checkbox:before{background:#838387;content:'\2713'}}
-#wrapper #generated-toc-clone,#wrapper #mkreplaced-toc,#wrapper #generated-toc-clone ul,#wrapper #mkreplaced-toc ul{list-style-position:inside}#wrapper #generated-toc-clone li.missing,#wrapper #mkreplaced-toc li.missing{list-style-type: none!important}#wrapper #generated-toc-clone ul,#wrapper #mkreplaced-toc ul{list-style-type: upper-roman}#wrapper #generated-toc-clone>ul>li>ul,#wrapper #mkreplaced-toc>li>ul {list-style-type: decimal}#wrapper #generated-toc-clone>ul>li>ul>li>ul,#wrapper #mkreplaced-toc>li>ul>li>ul{list-style-type: decimal-leading-zero}#wrapper #generated-toc-clone>ul>li>ul>li>ul>li>ul,#wrapper #mkreplaced-toc>li>ul>li>ul>li>ul{list-style-type: lower-greek}#wrapper #generated-toc-clone>ul>li>ul>li>ul>li>ul>li>ul,#wrapper #mkreplaced-toc>li>ul>li>ul>li>ul>li>ul{list-style-type: disc}#wrapper #generated-toc-clone>ul>li>ul>li>ul>li>ul>li>ul>li>ul,#wrapper #mkreplaced-toc>li>ul>li>ul>li>ul>li>ul>li>ul{list-style-type: square}#wrapper #generated-toc-clone,#wrapper #mkreplaced-toc{}
-</style>
-
-<style id="mkprintstyles">@media print{#wrapper #generated-toc-clone,#generated-toc{display:none!important}
-html,body,#wrapper{font-size:10pt!important}
-}
-</style>
-
-
-  </head>
-<body class="normal firstload">
-  <div id="wrapper">
-<!---  
- Start of StatCounter Code for Default Guide  
- -->
-<script type="text/javascript">
-var sc_project=8924220;  
-var sc_invisible=1;  
-var sc_security="22994e8d";  
-var scJsHost = (("https:" == document.location.protocol) ?  
-"https://secure." : "http://www.");  
-document.write("<sc"+"ript type='text/javascript' src='" +  
-scJsHost+  
-"statcounter.com/counter/counter.js'></"+"script>");  
-</script>
-<noscript><div class="statcounter"><a title="web analytics"  
-href="http://statcounter.com/" target="_blank"><img  
-class="statcounter"  
-src="//c.statcounter.com/8924220/0/22994e8d/1/" alt="web  
+<noscript><div><a title="web analytics"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="//c.statcounter.com/8924220/0/22994e8d/1/" alt="web
 analytics"></a></div></noscript>
-<!-- End of StatCounter Code for Default Guide -->
-
-<h1 id="jasonroderickdonaldson">Jason Roderick Donaldson</h1>
-<!----  
-### WashU and USC  
-###CEPR Research Affiliate  
- --->
-
+<h1>Jason Roderick Donaldson</h1>
 <p>jasonrdonaldson@gmail.com</p>
-
-<figure>
-<img src="img/jrd-picture.jpg" alt="" id="picture" />
-</figure>
-
-<h2 id="cvcv"><a href="http://jrdonaldson.com/stuff/DonaldsonCV.pdf">CV</a></h2>
-
-<h2 id="research">Research</h2>
-<!----
-
-your comment goes here  
-and here  
-and here  
- --->
-
-<h4 id="conflictingpriorities%3Aatheoryofcovenantsandcollateralpriorities"><a href="http://jrdonaldson.com/Papers/Donaldson-Gromb-Piacentino-Priorities.pdf">Conflicting Priorities: A Theory of Covenants and Collateral</a></h4>
-
-<p>with <a href="https://sites.google.com/hec.fr/denis-gromb/home">Denis Gromb</a> and <a href="http://giorgiapiacentino.com/">Giorgia Piacentino</a>, 2020 (forthcoming at the <strong>JF</strong>) </p>
-
-<p>We develop a model in which the absolute priority of secured debt leads to conflicts among creditors, but can be optimal nonetheless. The option to use collateral to dilute unsecured debt, even in violation of covenants, loosens financial constraints that could be inefficiently tight. But covenants embed an acceleration option that prevents these constraints from becoming inefficiently loose.</p>
-
-<h4 id="moneyrunsmr"><a href="http://jrdonaldson.com/Papers/Donaldson-Piacentino-Money_Runs.pdf">Money Runs</a></h4>
-
-<p>with <a href="http://giorgiapiacentino.com/">Giorgia Piacentino</a>, 2021 (forthcoming at the <strong>JME</strong>) </p>
-
-<p>Bank debt is both a financial security used to raise funds and a kind of money used to facilitate trade. We develop a model based on this dual role of bank debt. It provides a new rationale for why banks do many of the things they do, including why they choose to issue demandable debt, and hence why they are fragile. It gives new perspectives on a number of policies, notably suspension of convertibility and narrow banking. </p>
-
-<h4 id="intermediationvarietyiv"><a href="http://jrdonaldson.com/Papers/Donaldson-Piacentino-Thakor-Intermediation_Variety.pdf">Intermediation Variety</a></h4>
-
+<figure><img src="img/jrd-picture.jpg" alt="" /></figure>
+<h2><a href="http://jrdonaldson.com/stuff/DonaldsonCV.pdf">CV</a></h2>
+<h2>Research</h2>
+<h4><a href="http://jrdonaldson.com/Papers/Donaldson-Gromb-Piacentino-Priorities.pdf">Conflicting Priorities: A Theory of Covenants and Collateral</a></h4>
+<p>with <a href="https://sites.google.com/hec.fr/denis-gromb/home">Denis Gromb</a> and <a href="http://giorgiapiacentino.com/">Giorgia Piacentino</a>, 2025 (forthcoming at the <strong>JF</strong>)</p>
+<h4><a href="http://jrdonaldson.com/Papers/Donaldson-Piacentino-Money_Runs.pdf">Money Runs</a></h4>
+<p>with <a href="http://giorgiapiacentino.com/">Giorgia Piacentino</a>, 2022 (in the <strong>JME</strong> 126)&nbsp;</p>
+<h4><a href="http://jrdonaldson.com/Papers/Donaldson-Piacentino-Thakor-Intermediation_Variety.pdf">Intermediation Variety</a></h4>
 <p>with <a href="http://giorgiapiacentino.com/">Giorgia Piacentino</a> and <a href="http://apps.olin.wustl.edu/faculty/Thakor/index.htm">Anjan Thakor</a>, 2021 (in the <strong>JF</strong> 76 <a href="https://www.nber.org/papers/w25946">NBER WP 25946</a>)</p>
-
-<p>Non-depository financial intermediaries (&#8220;non-banks&#8221;) have a higher cost of capital than depositories (&#8220;banks&#8221;) do, e.g., because they do not benefit from a moneyness premium on deposits or government safety nets. How do they still compete with banks? Non-banks use their high cost of capital as a commitment device not to fund traditional projects, inducing entrepreneurs to innovative efficiently.</p>
-
-<h4 id="deadlockontheboarddl"><a href="http://jrdonaldson.com/Papers/Donaldson-Malenko-Piacentino-Deadlock.pdf">Deadlock on the Board</a></h4>
-
-<p>with <a href="https://www.nadyamalenko.com">Nadya Malenko</a> and <a href="http://giorgiapiacentino.com/">Giorgia Piacentino</a>, 2020 ( in the <strong>RFS</strong> 33 <a href="https://cepr.org/active/publications/discussion_papers/dp.php?dpno=12503">CEPR DP12503</a>)</p>
-
+<h4><a href="http://jrdonaldson.com/Papers/Donaldson-Malenko-Piacentino-Deadlock.pdf">Deadlock on the Board</a></h4>
+<p>with <a href="https://www.nadyamalenko.com">Nadya Malenko</a> and <a href="http://giorgiapiacentino.com/">Giorgia Piacentino</a>, 2020 (in the <strong>RFS</strong> 33 <a href="https://cepr.org/active/publications/discussion_papers/dp.php?dpno=12503">CEPR DP12503</a>)</p>
 <p>Best Paper Award at the 2018 ASU Sonoran Winter Finance Conference</p>
-
-<p>In a dynamic model of board decision making, directors strategically block proposals that benefit other directors. Such deadlock on the board explains CEO entrenchment and strategic inertia. We study how board composition affects deadlock, and find, for example, that board diversity can exacerbate it.</p>
-
-<h4 id="theparadoxofpledgeabilityparadox"><a href="http://jrdonaldson.com/Papers/Donaldson-Gromb-Piacentino-Paradox.pdf">The Paradox of Pledgeability</a></h4>
-
+<h4><a href="http://jrdonaldson.com/Papers/Donaldson-Gromb-Piacentino-Paradox.pdf">The Paradox of Pledgeability</a></h4>
 <p>with <a href="https://sites.google.com/hec.fr/denis-gromb/home">Denis Gromb</a> and <a href="http://giorgiapiacentino.com/">Giorgia Piacentino</a>, 2020 (in the <strong>JFE</strong> 137)</p>
-
-<p>We develop a model in which collateral serves to protect creditors from the claims of competing creditors. We find that collateralized borrowing has a cost: it encumbers assets, constraining future borrowing and investment&#8212;there is a collateral overhang.</p>
-
-<h4 id="householddebtoverhangandunemploymenthhd"><a href="http://jrdonaldson.com/Papers/Donaldson-Piacentino-Thakor-Household_Debt.pdf">Household Debt Overhang and Unemployment</a></h4>
-
-<p>with <a href="http://giorgiapiacentino.com/">Giorgia Piacentino</a> and <a href="http://apps.olin.wustl.edu/faculty/Thakor/index.htm">Anjan Thakor</a>, 2019 (in the <strong>JF</strong> 74)</p>
-
-<p>Using a search model, we find that levered households protected by limited liability suffer from a household-debt-overhang problem that leads them to require high wages to work. Firms respond by posting high wages but few vacancies. The equilibrium level of household debt is inefficiently high due to a household-debt externality.</p>
-<!----  
-NB: the working paper version focused on household risk-shifting, rather than debt overhang.  It is retitled [Household Risk-shifting in the Labor Market] [BL].  
--->
-
-<h4 id="contractingtocompeteforflowsm"><a href="http://jrdonaldson.com/Papers/Donaldson-Piacentino-Contracting_for_Flows.pdf">Contracting to Compete for Flows</a></h4>
-
+<h4><a href="http://jrdonaldson.com/Papers/Donaldson-Piacentino-Thakor-Household_Debt.pdf">Household Debt Overhang and Unemployment</a></h4>
+<p>with <a href="http://giorgiapiacentino.com/">Giorgia Piacentino</a> and <a href="http://apps.olin.wustl.edu/faculty/Thakor/index.htm">Anjan Thakor</a>, 2019 (in the <strong>JF</strong> 74).</p>
+<h4><a href="http://jrdonaldson.com/Papers/Donaldson-Piacentino-Contracting_for_Flows.pdf">Contracting to Compete for Flows</a></h4>
 <p>with <a href="http://giorgiapiacentino.com/">Giorgia Piacentino</a>, 2018 (in <strong>JET</strong> 173)</p>
-
-<p>Delegated asset managers frequently refer to public information, such as credit ratings and benchmark indicies, in the contracts they offer their investors. However, regulators have advised against this. Why do asset managers refer to public information in their contracts? We show that it is a way for asset managers to compete for flows of investor capital, even though it is socially inefficient.</p>
-
-<h4 id="warehousebankingwb"><a href="http://jrdonaldson.com/Papers/Donaldson-Piacentino-Thakor-Warehouse_Banking.pdf">Warehouse Banking</a></h4>
-
+<h4><a href="http://jrdonaldson.com/Papers/Donaldson-Piacentino-Thakor-Warehouse_Banking.pdf">Warehouse Banking</a></h4>
 <p>with <a href="http://giorgiapiacentino.com/">Giorgia Piacentino</a> and <a href="http://apps.olin.wustl.edu/faculty/Thakor/index.htm">Anjan Thakor</a>, 2018 (in the <strong>JFE</strong> 129)</p>
-
-<p>We develop a theory of banking that explains why banks started out as commodities warehouses. Our theory helps to explain how modern banks create funding liquidity and why they combine warehousing (custody and deposit-taking), lending, and private money creation within the same institutions.</p>
-
-<h4 id="resaleabledebtandsystemicriskn"><a href="http://jrdonaldson.com/Papers/Donaldson-Micheler-Resaleable_Debt.pdf">Resaleable Debt and Systemic Risk</a></h4>
-
+<h4><a href="http://jrdonaldson.com/Papers/Donaldson-Micheler-Resaleable_Debt.pdf">Resaleable Debt and Systemic Risk</a></h4>
 <p>with <a href="http://www.lse.ac.uk/collections/law/staff/eva-micheler.htm">Eva Micheler</a>, 2018 (in the <strong>JFE</strong> 127)</p>
-
-<p>Many debt claims, such as bonds, are resaleable, whereas others, such as repos, are not. We develop a model of bank lending in which debt claims are heterogenous in their resaleability. We find that decreasing credit market frictions leads to an increase in borrowing via non-resaleable debt. This causes credit chains to form, creating systemic risk.</p>
-
-<h4 id="restructuringvs.bankruptcyrestructuring"><a href="http://jrdonaldson.com/Papers/Donaldson-Morrison-Piacentino-Yu-Restructuring.pdf">Restructuring vs. Bankruptcy</a></h4>
-
-<p>with <a href="https://www.law.columbia.edu/faculty/edward-r-morrison">Ed Morrison</a>, <a href="http://giorgiapiacentino.com/">Giorgia Piacentino</a>, and <a href="https://academics.gsb.columbia.edu/node/1431">Xiaobo Yu</a>, 2022 (R&amp;R at the <strong>JF</strong>) </p>
-
-<p>How can firms resolve financial distress? Bankruptcy is one way, albeit a costly one. A less costly way is out-of-court restructuring. But hold-out problems can make it infeasible. Do policies that encourage bankruptcy filings, by, e.g., decreasing costs, crowd out restructuring? We find that the answer is no. We study how regulatory interventions can further increase welfare.</p>
-
-<h4 id="systemicriskinfinancialnetworksrevisited%3Atheroleofmaturitynetworks"><a href="http://jrdonaldson.com/Papers/Donaldson-Piacentino-Yu-Networks.pdf">Systemic Risk in Financial Networks Revisited: The Role of Maturity</a></h4>
-
-<p>with <a href="http://giorgiapiacentino.com/">Giorgia Piacentino</a> and <a href="https://academics.gsb.columbia.edu/node/1431">Xiaobo Yu</a>, 2022 (R&amp;R at the <strong>JF</strong>) </p>
-
-<p>We ask how liquidity risk propagates in interbank networks. We show that the answer turns on the maturity of interbank debt. Indebtedness and connectedness are sources of fragility if debt is short term, but of stability if it is long term. The right network of long-term debts implements the optimal allocation of liquidity.</p>
-
-<h4 id="sovereignbondrestructuring%3Acommitmentvs.flexibilitysovereigns"><a href="http://jrdonaldson.com/Papers/Donaldson-Kremens-Piacentino-Sovereign_Bond_Restructuring.pdf">Sovereign Bond Restructuring: Commitment vs. Flexibility</a></h4>
-
-<p>with <a href="https://sites.google.com/site/lukaskremensweb/">Lukas Kremens</a> and <a href="http://giorgiapiacentino.com/">Giorgia Piacentino</a>, 2022</p>
-
-<p>Sovereigns in distress often engage in bond restructuring. Does committing not to restructure one class of bonds benefit that class? Does it spillover to benefit other classes too? Evidence from natural experiments suggests the answers: yes and yes.</p>
-
-<h4 id="collateralreallocationreallocation"><a href="http://jrdonaldson.com/Papers/Donaldson-Gromb-Piacentino-Collateral_Reallocation.pdf">Collateral Reallocation</a></h4>
-
-<p>with <a href="https://sites.google.com/hec.fr/denis-gromb/home">Denis Gromb</a> and <a href="http://giorgiapiacentino.com/">Giorgia Piacentino</a>, 2021 </p>
-
-<p>Assets pledged as collateral for secured debt cannot be sold unless the debt is paid or otherwise renegotiated. We develop a model of this role of collateralization. We find that debt market frictions (alone) can cause the asset market to fail, causing misallocation.</p>
-
-<h4 id="theopportunitycostofcollateraloc"><a href="http://jrdonaldson.com/Papers/Donaldson-Lee-Piacentino-Opportunity_Cost.pdf">The Opportunity Cost of Collateral</a></h4>
-
+<h4><a href="http://jrdonaldson.com/Papers/Donaldson-Morrison-Piacentino-Yu-Restructuring.pdf">Restructuring vs. Bankruptcy</a></h4>
+<p>with <a href="https://www.law.columbia.edu/faculty/edward-r-morrison">Ed Morrison</a>, <a href="http://giorgiapiacentino.com/">Giorgia Piacentino</a>, and <a href="https://academics.gsb.columbia.edu/node/1431">Xiaobo Yu</a>, 2022 (R&amp;R at the <strong>JF</strong>)</p>
+<h4><a href="http://jrdonaldson.com/Papers/Donaldson-Piacentino-Yu-Networks.pdf">Systemic Risk in Financial Networks Revisited: The Role of Maturity</a></h4>
+<p>with <a href="http://giorgiapiacentino.com/">Giorgia Piacentino</a> and <a href="https://academics.gsb.columbia.edu/node/1431">Xiaobo Yu</a>, 2022 (R&amp;R at the <strong>JF</strong>)</p>
+<h4><a href="http://jrdonaldson.com/Papers/Collateral.pdf">Collateral</a></h4>
+<p>with <a href="https://www.giorgiapiacentino.com">Giorgia Piacentino</a>, 2025 (requested by the <strong>ARFE</strong>)</p>
+<h4><a href="http://jrdonaldson.com/Papers/Trilemma.pdf">Bankruptcy Trilemma: A Unifying Framework</a></h4>
+<p>with <a href="https://www.law.berkeley.edu/our-faculty/faculty-profiles/kenneth-ayotte/#tab_profile">Ken Ayotte</a> and <a href="https://www.giorgiapiacentino.com">Giorgia Piacentino</a>, 2025</p>
+<p>&nbsp;</p>
+<h4><a href="http://jrdonaldson.com/Papers/Donaldson-Kremens-Piacentino-Sovereign_Bond_Restructuring.pdf">Sovereign Bond Restructuring: Commitment vs. Flexibility</a></h4>
+<p>with <a href="https://sites.google.com/site/lukaskremensweb/">Lukas Kremens</a> and <a href="http://giorgiapiacentino.com/">Giorgia Piacentino</a>, 2025</p>
+<h4><a href="http://jrdonaldson.com/Papers/Donaldson-Gromb-Piacentino-Collateral_Reallocation.pdf">Collateral Reallocation</a></h4>
+<p>with <a href="https://sites.google.com/hec.fr/denis-gromb/home">Denis Gromb</a> and <a href="http://giorgiapiacentino.com/">Giorgia Piacentino</a>, 2021</p>
+<h4><a href="http://jrdonaldson.com/Papers/Donaldson-Lee-Piacentino-Opportunity_Cost.pdf">The Opportunity Cost of Collateral</a></h4>
 <p>with <a href="https://sites.google.com/view/minalee/home">Mina Lee</a> and <a href="http://giorgiapiacentino.com/">Giorgia Piacentino</a>, 2018</p>
-
-<p>Interbank debt is money-like, but not a perfect substitute for cash: it can be hard to convert to cash to fund new investments. Hence, interbank lending comes with an opportunity cost that generates positive spreads even absent any credit risk. These spreads enter banks&#8217; collateral constraints, generating a feedback between the opportunity cost in the credit market and the price of collateral in the asset market. This results in instability in the form of multiple equilibria, casting light on repo runs. We provide a new rational for counter-cyclical capital regulation.</p>
-
-<h4 id="procyclicalpromisespp"><a href="http://jrdonaldson.com/Papers/Donaldson-Procyclical_Promises.pdf">Procyclical Promises</a></h4>
-
+<h4><a href="http://jrdonaldson.com/Papers/Donaldson-Procyclical_Promises.pdf">Procyclical Promises</a></h4>
 <p>2018</p>
-
-<p>I explore how the cyclicality of firms&#8217; output affects their debt capacity. I point out that, in contrast to received theory, procyclical firms can have an advantage in the funding market: because they have more assets in booms, when asset prices are high ex post, they have looser collateral constraints ex ante&#8212;assets are useful as collateral only when they are valuable. </p>
-
-<h4 id="nettingn"><a href="http://jrdonaldson.com/Papers/Donaldson-Piacentino-Netting.pdf">Netting</a></h4>
-
+<h4><a href="http://jrdonaldson.com/Papers/Donaldson-Piacentino-Netting.pdf">Netting</a></h4>
 <p>with <a href="http://giorgiapiacentino.com/">Giorgia Piacentino</a>, 2018 (largely superseded by Systemic Risk in Financial Networks Revisited, above)</p>
-
-<p>Banks hold gross debts without netting them out. Why? These gross debts implement valuable contingent transfers via the option to dilute.</p>
-
-<h2 id="affiliations">Affiliations</h2>
-
-<h4 id="ceprcepr"><a href="http://cepr.org">CEPR</a></h4>
-
-<h4 id="financetheorygroupftg"><a href="http://www.financetheory.org">Finance Theory Group</a></h4>
-
-<h4 id="macrofinancesocietymfs"><a href="https://macrofinancesociety.org">Macro Finance Society</a></h4>
-
-<h4 id="laborandfinancegrouplfg"><a href="https://sites.google.com/site/laborandfinancegroup/">Labor and Finance Group</a></h4>
-
-<h4 id="systemicriskcentresrc"><a href="http://www.systemicrisk.ac.uk">Systemic Risk Centre</a></h4>
-<!---  
-PAPERS  
--->
-<!---  
-PEOPLE  
--->
-<!---  
-AFFILIATIONS  
--->
-<!---  
-OTHER STUFF  
--->
-<!---  
-OLD STUFF  
--->
-<!--- http://jrdonaldson.com/stuff/Mandates.pdf -->
-<!-- ##END MARKED WRAPPER## -->
-    </div>
-</body>
-</html>
+<h2>Affiliations</h2>
+<h4><a href="http://cepr.org">CEPR</a></h4>
+<h4><a href="http://www.financetheory.org">Finance Theory Group</a></h4>
+<h4><a href="https://macrofinancesociety.org">Macro Finance Society</a></h4>
+<h4><a href="https://sites.google.com/site/laborandfinancegroup/">Labor and Finance Group</a></h4>
+<h4><a href="http://www.systemicrisk.ac.uk">Systemic Risk Centre</a></h4>
