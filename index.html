@@ -36,11 +36,23 @@
       margin-top: 5px;
       margin-bottom: 20px;
     }
-    figure {
+ figure {
       margin: 30px 0;
-      text-align: center;
+      text-align: left; /* Left-align the image container */
+      float: left; /* Make text wrap around image */
+      margin-right: 30px; /* Add space between image and text */
     }
-  </style>
+    img.portrait {
+      width: 350px; /* Increased size (was 300px) */
+      height: auto;
+      border: 1px solid #eee; /* Optional subtle border */
+    }
+    .clearfix::after {
+      content: "";
+      clear: both;
+      display: table;
+    }
+      </style>
 </head>
 <body>
   <noscript>
@@ -51,13 +63,15 @@
     </div>
   </noscript>
 
-  <h1>Jason Roderick Donaldson</h1>
-  <p>jasonrdonaldson@gmail.com</p>
-  
-  <figure>
-    <img src="img/jrd-picture.jpg" alt="Portrait of Jason Roderick Donaldson" style="max-width: 400px;">
-  </figure>
-  
+   <div class="clearfix"> <!-- Ensures proper text wrapping -->
+    <h1>Jason Roderick Donaldson</h1>
+    
+    <figure>
+      <img src="img/jrd-picture.jpg" alt="Portrait of Jason Roderick Donaldson" class="portrait">
+    </figure>
+    
+    <p>jasonrdonaldson@gmail.com</p>
+  </div>  
   <h2><a href="http://jrdonaldson.com/stuff/DonaldsonCV.pdf">CV</a></h2>
   
   <h2>Research</h2>
