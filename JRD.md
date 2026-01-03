@@ -118,10 +118,6 @@ Many debt claims, such as bonds, are resaleable, whereas others, such as repos, 
 
 
 
-#### [Restructuring vs. Bankruptcy][Restructuring] 
-with  [Ed Morrison][ed], [Giorgia Piacentino][giorgia], and [Xiaobo Yu][xiaobo], 2022 (R&R at the **JF**) 
-
-How can firms resolve financial distress? Bankruptcy is one way, albeit a costly one. A less costly way is out-of-court restructuring. But hold-out problems can make it infeasible. Do policies that encourage bankruptcy filings, by, e.g., decreasing costs, crowd out restructuring? We find that the answer is no. We study how regulatory interventions can further increase welfare.
 
 
 #### [Systemic Risk in Financial Networks Revisited: The Role of Maturity][Networks] 
@@ -132,6 +128,10 @@ We ask how liquidity risk propagates in interbank networks. We show that the ans
 
 
 
+#### [Restructuring vs. Bankruptcy][Restructuring] 
+with  [Ed Morrison][ed], [Giorgia Piacentino][giorgia], and [Xiaobo Yu][xiaobo], 2022 
+
+How can firms resolve financial distress? Bankruptcy is one way, albeit a costly one. A less costly way is out-of-court restructuring. But hold-out problems can make it infeasible. Do policies that encourage bankruptcy filings, by, e.g., decreasing costs, crowd out restructuring? We find that the answer is no. We study how regulatory interventions can further increase welfare.
 
 
 
